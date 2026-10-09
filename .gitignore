@@ -1,0 +1,13 @@
+# Images datasets
+/train/
+/test/
+*.zip
+
+# Python env and cache
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Trained models
+*.pth
+*.pt
