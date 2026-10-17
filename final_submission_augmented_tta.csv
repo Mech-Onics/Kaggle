@@ -40,7 +40,7 @@ image_id,class
 39,CatNose
 40,DogFace
 41,CatEye
-42,DogMouth
+42,DogEye
 43,CatMouth
 44,CatEye
 45,DogFace
@@ -72,7 +72,7 @@ image_id,class
 71,DogNose
 72,CatMouth
 73,CatEye
-74,DogNose
+74,CatFace
 75,CatFace
 76,DogFace
 77,CatFace
@@ -150,7 +150,7 @@ image_id,class
 149,DogEye
 150,CatEye
 151,CatMouth
-152,DogMouth
+152,DogEye
 153,CatFace
 154,DogEye
 155,DogFace
@@ -159,10 +159,10 @@ image_id,class
 158,CatFace
 159,DogEye
 160,CatFace
-161,CatNose
+161,CatEye
 162,DogEye
 163,DogEye
-164,CatFace
+164,CatEye
 165,DogEye
 166,DogFace
 167,CatNose
@@ -186,7 +186,7 @@ image_id,class
 185,CatNose
 186,DogMouth
 187,DogEye
-188,DogNose
+188,DogMouth
 189,DogFace
 190,DogFace
 191,CatNose
@@ -255,7 +255,7 @@ image_id,class
 254,DogFace
 255,CatNose
 256,DogMouth
-257,DogNose
+257,CatNose
 258,CatFace
 259,DogEye
 260,CatNose
@@ -267,7 +267,7 @@ image_id,class
 266,DogNose
 267,CatFace
 268,DogEye
-269,CatNose
+269,CatFace
 270,DogEye
 271,DogMouth
 272,CatMouth
@@ -278,7 +278,7 @@ image_id,class
 277,CatNose
 278,DogMouth
 279,CatFace
-280,CatMouth
+280,CatFace
 281,DogEye
 282,DogNose
 283,CatMouth
@@ -305,7 +305,7 @@ image_id,class
 304,CatFace
 305,CatNose
 306,CatEye
-307,CatNose
+307,CatMouth
 308,CatFace
 309,CatEye
 310,DogMouth
@@ -393,7 +393,7 @@ image_id,class
 392,CatNose
 393,DogMouth
 394,DogEye
-395,DogEye
+395,CatEye
 396,CatFace
 397,DogNose
 398,DogEye
@@ -450,7 +450,7 @@ image_id,class
 449,DogNose
 450,DogNose
 451,CatNose
-452,CatEye
+452,DogEye
 453,CatMouth
 454,DogEye
 455,DogEye
@@ -490,7 +490,7 @@ image_id,class
 489,DogEye
 490,DogNose
 491,DogEye
-492,DogEye
+492,DogMouth
 493,CatFace
 494,CatNose
 495,CatMouth
@@ -504,7 +504,7 @@ image_id,class
 503,CatEye
 504,DogMouth
 505,CatEye
-506,CatNose
+506,CatMouth
 507,DogFace
 508,DogFace
 509,CatFace
@@ -579,7 +579,7 @@ image_id,class
 578,CatMouth
 579,DogFace
 580,CatEye
-581,DogMouth
+581,DogEye
 582,CatFace
 583,DogFace
 584,DogFace
@@ -606,7 +606,7 @@ image_id,class
 605,CatFace
 606,CatEye
 607,CatEye
-608,CatNose
+608,CatMouth
 609,CatMouth
 610,CatNose
 611,CatEye
@@ -645,7 +645,7 @@ image_id,class
 644,CatEye
 645,DogNose
 646,CatMouth
-647,DogEye
+647,CatEye
 648,CatNose
 649,DogEye
 650,DogEye
@@ -670,7 +670,7 @@ image_id,class
 669,CatMouth
 670,CatEye
 671,DogEye
-672,DogMouth
+672,CatMouth
 673,DogNose
 674,CatEye
 675,CatEye
@@ -781,7 +781,7 @@ image_id,class
 780,CatEye
 781,DogEye
 782,CatEye
-783,DogMouth
+783,DogEye
 784,DogEye
 785,DogEye
 786,DogEye
@@ -799,7 +799,7 @@ image_id,class
 798,DogEye
 799,DogNose
 800,CatMouth
-801,CatMouth
+801,DogMouth
 802,DogMouth
 803,DogMouth
 804,CatNose
@@ -826,7 +826,7 @@ image_id,class
 825,DogEye
 826,DogFace
 827,CatEye
-828,CatNose
+828,CatMouth
 829,DogFace
 830,DogEye
 831,CatMouth
@@ -838,7 +838,7 @@ image_id,class
 837,DogEye
 838,DogNose
 839,CatNose
-840,DogNose
+840,DogFace
 841,CatEye
 842,DogEye
 843,CatNose
@@ -1124,7 +1124,7 @@ image_id,class
 1123,DogFace
 1124,DogEye
 1125,DogEye
-1126,CatNose
+1126,CatMouth
 1127,CatEye
 1128,CatFace
 1129,CatNose
@@ -1271,7 +1271,7 @@ image_id,class
 1270,DogNose
 1271,CatEye
 1272,CatEye
-1273,DogMouth
+1273,DogEye
 1274,CatEye
 1275,DogEye
 1276,DogEye
@@ -1364,7 +1364,7 @@ image_id,class
 1363,DogNose
 1364,CatEye
 1365,CatFace
-1366,CatMouth
+1366,DogMouth
 1367,CatEye
 1368,DogEye
 1369,CatEye
@@ -1386,7 +1386,7 @@ image_id,class
 1385,DogEye
 1386,DogNose
 1387,CatEye
-1388,DogEye
+1388,CatEye
 1389,CatEye
 1390,DogNose
 1391,DogEye
@@ -1403,7 +1403,7 @@ image_id,class
 1402,CatMouth
 1403,CatEye
 1404,CatEye
-1405,DogEye
+1405,CatEye
 1406,CatNose
 1407,CatEye
 1408,CatMouth
@@ -1491,7 +1491,7 @@ image_id,class
 1490,DogNose
 1491,CatEye
 1492,CatEye
-1493,DogEye
+1493,CatEye
 1494,CatEye
 1495,CatNose
 1496,CatFace
@@ -1595,7 +1595,7 @@ image_id,class
 1594,DogEye
 1595,CatNose
 1596,DogMouth
-1597,DogEye
+1597,CatEye
 1598,CatNose
 1599,CatEye
 1600,DogMouth
@@ -1614,7 +1614,7 @@ image_id,class
 1613,DogNose
 1614,CatEye
 1615,CatMouth
-1616,CatNose
+1616,CatEye
 1617,CatEye
 1618,CatEye
 1619,CatEye
@@ -1662,7 +1662,7 @@ image_id,class
 1661,DogFace
 1662,DogMouth
 1663,DogFace
-1664,CatNose
+1664,CatEye
 1665,DogNose
 1666,CatEye
 1667,CatFace
@@ -1705,8 +1705,8 @@ image_id,class
 1704,CatMouth
 1705,DogMouth
 1706,DogNose
-1707,DogNose
-1708,CatEye
+1707,DogEye
+1708,CatFace
 1709,DogNose
 1710,CatNose
 1711,CatEye
@@ -1883,7 +1883,7 @@ image_id,class
 1882,CatEye
 1883,DogFace
 1884,DogEye
-1885,CatNose
+1885,CatEye
 1886,CatMouth
 1887,CatNose
 1888,DogEye
@@ -1960,7 +1960,7 @@ image_id,class
 1959,DogNose
 1960,CatEye
 1961,CatFace
-1962,DogFace
+1962,DogEye
 1963,CatFace
 1964,CatMouth
 1965,CatMouth
@@ -1993,7 +1993,7 @@ image_id,class
 1992,DogNose
 1993,DogFace
 1994,DogMouth
-1995,CatNose
+1995,CatMouth
 1996,CatNose
 1997,CatMouth
 1998,DogEye
@@ -2023,7 +2023,7 @@ image_id,class
 2022,DogFace
 2023,DogMouth
 2024,DogEye
-2025,DogNose
+2025,DogMouth
 2026,CatFace
 2027,DogMouth
 2028,DogEye
@@ -2248,11 +2248,11 @@ image_id,class
 2247,DogEye
 2248,DogEye
 2249,CatEye
-2250,DogNose
+2250,DogEye
 2251,CatMouth
 2252,DogEye
 2253,DogEye
-2254,DogEye
+2254,DogMouth
 2255,CatEye
 2256,DogMouth
 2257,CatNose
@@ -2288,8 +2288,8 @@ image_id,class
 2287,CatEye
 2288,CatMouth
 2289,DogEye
-2290,DogEye
-2291,CatNose
+2290,CatEye
+2291,CatFace
 2292,CatEye
 2293,CatMouth
 2294,CatFace
@@ -2402,7 +2402,7 @@ image_id,class
 2401,CatNose
 2402,DogFace
 2403,DogMouth
-2404,CatNose
+2404,CatEye
 2405,DogMouth
 2406,CatNose
 2407,DogEye
@@ -2560,7 +2560,7 @@ image_id,class
 2559,DogEye
 2560,DogEye
 2561,CatEye
-2562,CatNose
+2562,CatMouth
 2563,CatFace
 2564,DogEye
 2565,CatFace
@@ -2577,7 +2577,7 @@ image_id,class
 2576,CatEye
 2577,DogEye
 2578,DogEye
-2579,DogEye
+2579,CatEye
 2580,DogMouth
 2581,CatMouth
 2582,CatEye
@@ -2595,7 +2595,7 @@ image_id,class
 2594,CatFace
 2595,DogFace
 2596,CatNose
-2597,CatNose
+2597,CatEye
 2598,DogEye
 2599,DogMouth
 2600,DogFace
@@ -2619,7 +2619,7 @@ image_id,class
 2618,CatMouth
 2619,CatNose
 2620,DogFace
-2621,DogMouth
+2621,DogNose
 2622,CatEye
 2623,CatEye
 2624,CatFace
@@ -2627,7 +2627,7 @@ image_id,class
 2626,CatEye
 2627,CatEye
 2628,DogEye
-2629,DogNose
+2629,DogMouth
 2630,CatFace
 2631,DogEye
 2632,DogEye
@@ -2650,7 +2650,7 @@ image_id,class
 2649,CatFace
 2650,CatEye
 2651,DogEye
-2652,CatNose
+2652,CatEye
 2653,CatFace
 2654,DogMouth
 2655,CatNose
@@ -2676,7 +2676,7 @@ image_id,class
 2675,DogNose
 2676,CatEye
 2677,CatMouth
-2678,DogFace
+2678,DogNose
 2679,CatEye
 2680,CatNose
 2681,CatFace
@@ -2762,7 +2762,7 @@ image_id,class
 2761,CatNose
 2762,DogFace
 2763,DogEye
-2764,CatNose
+2764,CatEye
 2765,CatEye
 2766,CatMouth
 2767,DogNose
@@ -2799,7 +2799,7 @@ image_id,class
 2798,CatMouth
 2799,DogEye
 2800,CatEye
-2801,CatNose
+2801,CatEye
 2802,DogEye
 2803,DogMouth
 2804,CatNose
@@ -2850,7 +2850,7 @@ image_id,class
 2849,DogEye
 2850,DogEye
 2851,CatMouth
-2852,DogEye
+2852,CatEye
 2853,CatFace
 2854,DogEye
 2855,CatNose
@@ -2884,7 +2884,7 @@ image_id,class
 2883,DogMouth
 2884,DogEye
 2885,CatEye
-2886,DogNose
+2886,DogFace
 2887,DogFace
 2888,CatMouth
 2889,DogMouth
@@ -2973,7 +2973,7 @@ image_id,class
 2972,DogMouth
 2973,DogNose
 2974,CatEye
-2975,DogMouth
+2975,DogEye
 2976,CatMouth
 2977,CatFace
 2978,DogEye
@@ -3097,13 +3097,13 @@ image_id,class
 3096,CatFace
 3097,CatEye
 3098,DogMouth
-3099,DogNose
+3099,DogFace
 3100,DogFace
 3101,CatFace
 3102,CatFace
 3103,CatNose
 3104,CatEye
-3105,CatNose
+3105,CatMouth
 3106,CatEye
 3107,CatEye
 3108,CatMouth
@@ -3191,7 +3191,7 @@ image_id,class
 3190,CatEye
 3191,DogNose
 3192,CatEye
-3193,CatMouth
+3193,CatEye
 3194,CatFace
 3195,CatFace
 3196,CatFace
@@ -3206,7 +3206,7 @@ image_id,class
 3205,CatEye
 3206,CatNose
 3207,DogFace
-3208,CatNose
+3208,CatFace
 3209,CatNose
 3210,CatEye
 3211,CatFace
@@ -3214,7 +3214,7 @@ image_id,class
 3213,DogNose
 3214,CatNose
 3215,CatNose
-3216,DogEye
+3216,CatEye
 3217,DogNose
 3218,DogFace
 3219,DogNose
@@ -3259,7 +3259,7 @@ image_id,class
 3258,CatFace
 3259,CatEye
 3260,CatMouth
-3261,DogEye
+3261,DogNose
 3262,DogNose
 3263,CatMouth
 3264,CatNose
@@ -3332,7 +3332,7 @@ image_id,class
 3331,DogEye
 3332,CatNose
 3333,CatNose
-3334,CatMouth
+3334,CatEye
 3335,DogMouth
 3336,CatFace
 3337,CatFace
@@ -3397,7 +3397,7 @@ image_id,class
 3396,CatNose
 3397,CatEye
 3398,DogFace
-3399,CatNose
+3399,CatMouth
 3400,DogNose
 3401,CatFace
 3402,DogEye
@@ -3441,7 +3441,7 @@ image_id,class
 3440,DogEye
 3441,DogFace
 3442,DogEye
-3443,DogFace
+3443,DogMouth
 3444,CatEye
 3445,CatEye
 3446,CatNose
@@ -3488,7 +3488,7 @@ image_id,class
 3487,CatNose
 3488,CatEye
 3489,DogFace
-3490,DogNose
+3490,DogEye
 3491,DogFace
 3492,CatFace
 3493,DogEye
@@ -3641,7 +3641,7 @@ image_id,class
 3640,CatEye
 3641,DogFace
 3642,CatFace
-3643,CatNose
+3643,CatMouth
 3644,DogMouth
 3645,CatMouth
 3646,CatNose
@@ -3729,7 +3729,7 @@ image_id,class
 3728,CatFace
 3729,DogEye
 3730,DogEye
-3731,CatNose
+3731,CatFace
 3732,DogMouth
 3733,CatFace
 3734,DogNose
@@ -3753,7 +3753,7 @@ image_id,class
 3752,CatFace
 3753,CatMouth
 3754,DogNose
-3755,DogEye
+3755,CatEye
 3756,CatEye
 3757,CatMouth
 3758,DogMouth
@@ -3768,7 +3768,7 @@ image_id,class
 3767,DogNose
 3768,DogEye
 3769,CatMouth
-3770,CatNose
+3770,CatMouth
 3771,DogEye
 3772,DogEye
 3773,CatEye
@@ -3796,7 +3796,7 @@ image_id,class
 3795,DogMouth
 3796,CatMouth
 3797,CatEye
-3798,CatNose
+3798,CatEye
 3799,DogNose
 3800,CatEye
 3801,CatNose
@@ -3817,7 +3817,7 @@ image_id,class
 3816,CatEye
 3817,DogEye
 3818,CatEye
-3819,CatNose
+3819,CatMouth
 3820,CatFace
 3821,CatFace
 3822,DogFace
@@ -3856,7 +3856,7 @@ image_id,class
 3855,DogEye
 3856,DogFace
 3857,DogNose
-3858,CatNose
+3858,CatEye
 3859,DogNose
 3860,CatNose
 3861,DogMouth
@@ -3883,13 +3883,13 @@ image_id,class
 3882,DogEye
 3883,CatFace
 3884,DogEye
-3885,DogNose
+3885,DogMouth
 3886,DogEye
 3887,CatMouth
 3888,CatEye
 3889,CatEye
 3890,DogEye
-3891,CatNose
+3891,CatMouth
 3892,DogMouth
 3893,DogMouth
 3894,DogNose
@@ -4006,7 +4006,7 @@ image_id,class
 4005,DogEye
 4006,CatNose
 4007,DogNose
-4008,CatNose
+4008,CatMouth
 4009,CatMouth
 4010,DogEye
 4011,CatNose
@@ -4026,7 +4026,7 @@ image_id,class
 4025,CatMouth
 4026,CatNose
 4027,CatEye
-4028,CatNose
+4028,CatMouth
 4029,DogNose
 4030,DogMouth
 4031,CatEye
@@ -4055,7 +4055,7 @@ image_id,class
 4054,CatMouth
 4055,CatNose
 4056,DogEye
-4057,DogFace
+4057,DogEye
 4058,CatEye
 4059,DogEye
 4060,DogEye
@@ -4133,7 +4133,7 @@ image_id,class
 4132,DogFace
 4133,DogFace
 4134,DogNose
-4135,DogNose
+4135,DogEye
 4136,CatEye
 4137,CatNose
 4138,DogFace
@@ -4160,13 +4160,13 @@ image_id,class
 4159,CatEye
 4160,CatMouth
 4161,CatFace
-4162,CatNose
+4162,DogEye
 4163,DogEye
 4164,CatNose
 4165,CatFace
 4166,CatEye
 4167,CatEye
-4168,CatEye
+4168,DogEye
 4169,CatEye
 4170,DogEye
 4171,CatFace
@@ -4180,7 +4180,7 @@ image_id,class
 4179,CatEye
 4180,DogNose
 4181,DogMouth
-4182,DogNose
+4182,DogMouth
 4183,DogEye
 4184,DogMouth
 4185,DogMouth
@@ -4241,7 +4241,7 @@ image_id,class
 4240,CatMouth
 4241,DogEye
 4242,DogFace
-4243,CatNose
+4243,CatEye
 4244,DogFace
 4245,DogNose
 4246,CatEye
@@ -4271,7 +4271,7 @@ image_id,class
 4270,CatEye
 4271,DogNose
 4272,CatEye
-4273,CatEye
+4273,CatFace
 4274,CatEye
 4275,DogNose
 4276,DogEye
@@ -4286,7 +4286,7 @@ image_id,class
 4285,CatNose
 4286,CatMouth
 4287,DogEye
-4288,DogNose
+4288,DogMouth
 4289,CatNose
 4290,DogMouth
 4291,CatFace
@@ -4502,13 +4502,13 @@ image_id,class
 4501,DogFace
 4502,CatFace
 4503,DogNose
-4504,DogFace
+4504,DogNose
 4505,CatMouth
 4506,CatNose
 4507,DogFace
 4508,DogFace
 4509,DogEye
-4510,DogMouth
+4510,DogEye
 4511,DogEye
 4512,CatEye
 4513,CatEye
@@ -4534,7 +4534,7 @@ image_id,class
 4533,DogEye
 4534,CatMouth
 4535,CatEye
-4536,DogMouth
+4536,DogEye
 4537,CatMouth
 4538,CatNose
 4539,CatEye
@@ -4612,7 +4612,7 @@ image_id,class
 4611,DogMouth
 4612,CatNose
 4613,CatNose
-4614,DogNose
+4614,DogEye
 4615,DogMouth
 4616,CatNose
 4617,DogNose
@@ -4649,7 +4649,7 @@ image_id,class
 4648,DogFace
 4649,CatEye
 4650,DogEye
-4651,CatNose
+4651,CatEye
 4652,DogMouth
 4653,DogNose
 4654,DogEye
@@ -4801,7 +4801,7 @@ image_id,class
 4800,CatMouth
 4801,DogEye
 4802,CatFace
-4803,DogNose
+4803,DogMouth
 4804,DogMouth
 4805,DogEye
 4806,CatNose
@@ -4855,9 +4855,9 @@ image_id,class
 4854,DogMouth
 4855,DogEye
 4856,CatMouth
-4857,CatMouth
+4857,DogMouth
 4858,DogEye
-4859,CatNose
+4859,CatMouth
 4860,DogMouth
 4861,CatMouth
 4862,CatEye
@@ -4922,7 +4922,7 @@ image_id,class
 4921,DogFace
 4922,DogEye
 4923,DogEye
-4924,CatNose
+4924,CatEye
 4925,CatMouth
 4926,DogNose
 4927,DogMouth
@@ -4956,7 +4956,7 @@ image_id,class
 4955,DogEye
 4956,CatNose
 4957,CatMouth
-4958,CatMouth
+4958,DogMouth
 4959,CatMouth
 4960,CatNose
 4961,DogNose
@@ -4980,7 +4980,7 @@ image_id,class
 4979,DogFace
 4980,CatEye
 4981,CatEye
-4982,CatEye
+4982,CatMouth
 4983,CatNose
 4984,DogEye
 4985,CatMouth
@@ -4991,7 +4991,7 @@ image_id,class
 4990,DogEye
 4991,DogNose
 4992,CatEye
-4993,CatNose
+4993,DogNose
 4994,CatMouth
 4995,CatMouth
 4996,DogEye
@@ -5008,7 +5008,7 @@ image_id,class
 5007,CatEye
 5008,DogNose
 5009,DogNose
-5010,DogFace
+5010,DogEye
 5011,CatEye
 5012,DogEye
 5013,DogFace
@@ -5018,7 +5018,7 @@ image_id,class
 5017,DogMouth
 5018,DogNose
 5019,CatFace
-5020,DogNose
+5020,CatNose
 5021,DogFace
 5022,CatFace
 5023,CatNose
@@ -5048,7 +5048,7 @@ image_id,class
 5047,DogMouth
 5048,CatEye
 5049,DogFace
-5050,CatNose
+5050,DogNose
 5051,CatNose
 5052,CatEye
 5053,CatEye
@@ -5062,7 +5062,7 @@ image_id,class
 5061,DogMouth
 5062,CatEye
 5063,DogEye
-5064,CatNose
+5064,CatEye
 5065,CatEye
 5066,CatEye
 5067,DogEye
@@ -5201,7 +5201,7 @@ image_id,class
 5200,DogFace
 5201,DogFace
 5202,CatNose
-5203,DogEye
+5203,CatEye
 5204,DogNose
 5205,DogEye
 5206,CatMouth
@@ -5255,7 +5255,7 @@ image_id,class
 5254,CatEye
 5255,DogFace
 5256,CatEye
-5257,DogMouth
+5257,DogEye
 5258,DogMouth
 5259,CatEye
 5260,CatFace
@@ -5267,10 +5267,10 @@ image_id,class
 5266,DogFace
 5267,DogNose
 5268,CatMouth
-5269,DogEye
+5269,CatEye
 5270,DogEye
 5271,DogMouth
-5272,CatNose
+5272,CatEye
 5273,DogNose
 5274,DogFace
 5275,CatMouth
@@ -5410,7 +5410,7 @@ image_id,class
 5409,DogMouth
 5410,DogNose
 5411,DogMouth
-5412,CatNose
+5412,CatEye
 5413,CatMouth
 5414,DogFace
 5415,DogNose
@@ -5442,7 +5442,7 @@ image_id,class
 5441,CatEye
 5442,DogMouth
 5443,DogNose
-5444,DogNose
+5444,CatEye
 5445,CatEye
 5446,DogNose
 5447,CatMouth
@@ -5453,7 +5453,7 @@ image_id,class
 5452,DogNose
 5453,CatFace
 5454,CatEye
-5455,CatNose
+5455,CatFace
 5456,DogNose
 5457,DogNose
 5458,DogFace
@@ -5479,7 +5479,7 @@ image_id,class
 5478,CatMouth
 5479,DogMouth
 5480,CatNose
-5481,DogFace
+5481,DogNose
 5482,DogEye
 5483,CatNose
 5484,CatMouth
@@ -5490,7 +5490,7 @@ image_id,class
 5489,CatNose
 5490,DogEye
 5491,DogMouth
-5492,CatEye
+5492,DogEye
 5493,DogEye
 5494,DogNose
 5495,CatNose
@@ -5579,7 +5579,7 @@ image_id,class
 5578,DogNose
 5579,CatEye
 5580,DogEye
-5581,DogEye
+5581,CatEye
 5582,DogFace
 5583,CatEye
 5584,CatFace
@@ -5629,7 +5629,7 @@ image_id,class
 5628,CatNose
 5629,CatEye
 5630,CatFace
-5631,DogMouth
+5631,DogEye
 5632,CatMouth
 5633,CatEye
 5634,CatMouth
@@ -5710,7 +5710,7 @@ image_id,class
 5709,DogEye
 5710,CatEye
 5711,CatEye
-5712,CatEye
+5712,CatFace
 5713,CatEye
 5714,CatEye
 5715,DogFace
@@ -5731,7 +5731,7 @@ image_id,class
 5730,DogFace
 5731,CatEye
 5732,CatEye
-5733,CatNose
+5733,CatEye
 5734,DogEye
 5735,DogEye
 5736,DogNose
@@ -5900,7 +5900,7 @@ image_id,class
 5899,CatEye
 5900,DogEye
 5901,DogMouth
-5902,CatNose
+5902,CatEye
 5903,DogEye
 5904,CatEye
 5905,CatMouth
@@ -5963,7 +5963,7 @@ image_id,class
 5962,CatMouth
 5963,CatFace
 5964,CatMouth
-5965,CatNose
+5965,CatEye
 5966,DogEye
 5967,DogNose
 5968,DogEye
@@ -6006,7 +6006,7 @@ image_id,class
 6005,DogNose
 6006,DogMouth
 6007,CatNose
-6008,CatMouth
+6008,DogMouth
 6009,CatEye
 6010,CatNose
 6011,DogMouth
@@ -6017,7 +6017,7 @@ image_id,class
 6016,DogFace
 6017,DogMouth
 6018,DogMouth
-6019,CatNose
+6019,CatEye
 6020,CatFace
 6021,CatEye
 6022,CatNose
@@ -6044,7 +6044,7 @@ image_id,class
 6043,CatFace
 6044,DogNose
 6045,CatMouth
-6046,CatNose
+6046,CatMouth
 6047,CatEye
 6048,DogMouth
 6049,CatNose
@@ -6058,7 +6058,7 @@ image_id,class
 6057,CatFace
 6058,DogMouth
 6059,CatNose
-6060,DogNose
+6060,DogMouth
 6061,CatFace
 6062,CatMouth
 6063,DogNose
@@ -6219,12 +6219,12 @@ image_id,class
 6218,DogNose
 6219,CatMouth
 6220,DogEye
-6221,DogMouth
+6221,DogEye
 6222,DogMouth
 6223,CatEye
 6224,CatMouth
 6225,CatNose
-6226,DogFace
+6226,CatFace
 6227,CatEye
 6228,DogMouth
 6229,DogEye
@@ -6289,7 +6289,7 @@ image_id,class
 6288,DogMouth
 6289,CatEye
 6290,CatEye
-6291,DogMouth
+6291,DogEye
 6292,DogEye
 6293,CatMouth
 6294,DogEye
@@ -6340,7 +6340,7 @@ image_id,class
 6339,DogEye
 6340,DogEye
 6341,CatFace
-6342,CatNose
+6342,CatMouth
 6343,DogEye
 6344,CatFace
 6345,CatFace
@@ -6467,7 +6467,7 @@ image_id,class
 6466,CatNose
 6467,CatEye
 6468,DogNose
-6469,CatNose
+6469,DogNose
 6470,CatEye
 6471,DogNose
 6472,DogFace
@@ -6476,14 +6476,14 @@ image_id,class
 6475,DogNose
 6476,CatNose
 6477,CatFace
-6478,DogEye
+6478,DogFace
 6479,CatEye
 6480,DogNose
 6481,DogEye
 6482,DogEye
 6483,DogMouth
 6484,CatNose
-6485,CatNose
+6485,CatMouth
 6486,DogEye
 6487,DogMouth
 6488,CatEye
@@ -6558,7 +6558,7 @@ image_id,class
 6557,DogEye
 6558,DogFace
 6559,CatEye
-6560,CatMouth
+6560,CatNose
 6561,DogNose
 6562,CatFace
 6563,DogMouth
@@ -6610,7 +6610,7 @@ image_id,class
 6609,CatFace
 6610,CatEye
 6611,CatMouth
-6612,CatMouth
+6612,CatEye
 6613,CatEye
 6614,DogMouth
 6615,CatEye
@@ -6764,7 +6764,7 @@ image_id,class
 6763,DogMouth
 6764,CatMouth
 6765,DogNose
-6766,CatNose
+6766,CatMouth
 6767,CatEye
 6768,DogMouth
 6769,CatEye
@@ -6890,7 +6890,7 @@ image_id,class
 6889,DogFace
 6890,CatFace
 6891,DogMouth
-6892,DogEye
+6892,CatEye
 6893,DogMouth
 6894,DogMouth
 6895,CatMouth
@@ -6961,7 +6961,7 @@ image_id,class
 6960,CatMouth
 6961,DogEye
 6962,DogFace
-6963,CatNose
+6963,CatMouth
 6964,DogNose
 6965,CatFace
 6966,DogNose
@@ -7064,7 +7064,7 @@ image_id,class
 7063,DogEye
 7064,CatNose
 7065,CatEye
-7066,DogEye
+7066,CatEye
 7067,CatEye
 7068,CatFace
 7069,CatEye
@@ -7096,7 +7096,7 @@ image_id,class
 7095,DogMouth
 7096,CatMouth
 7097,DogEye
-7098,DogMouth
+7098,DogEye
 7099,CatNose
 7100,DogFace
 7101,DogEye
@@ -7139,7 +7139,7 @@ image_id,class
 7138,CatNose
 7139,CatFace
 7140,CatEye
-7141,DogMouth
+7141,DogEye
 7142,CatEye
 7143,DogEye
 7144,DogFace
@@ -7263,7 +7263,7 @@ image_id,class
 7262,CatNose
 7263,CatMouth
 7264,CatEye
-7265,DogEye
+7265,CatEye
 7266,DogEye
 7267,CatMouth
 7268,DogNose
@@ -7307,7 +7307,7 @@ image_id,class
 7306,CatNose
 7307,CatMouth
 7308,CatEye
-7309,CatNose
+7309,CatMouth
 7310,CatFace
 7311,CatFace
 7312,CatEye
@@ -7340,7 +7340,7 @@ image_id,class
 7339,CatEye
 7340,CatFace
 7341,CatMouth
-7342,CatNose
+7342,CatMouth
 7343,CatNose
 7344,DogMouth
 7345,DogNose
@@ -7366,7 +7366,7 @@ image_id,class
 7365,CatEye
 7366,CatEye
 7367,CatMouth
-7368,CatMouth
+7368,CatEye
 7369,CatEye
 7370,CatEye
 7371,DogEye
@@ -7376,7 +7376,7 @@ image_id,class
 7375,CatEye
 7376,CatFace
 7377,DogFace
-7378,CatEye
+7378,DogEye
 7379,CatMouth
 7380,CatNose
 7381,CatFace
@@ -7401,7 +7401,7 @@ image_id,class
 7400,CatEye
 7401,DogMouth
 7402,CatEye
-7403,DogNose
+7403,DogMouth
 7404,DogMouth
 7405,CatEye
 7406,CatFace
@@ -7452,7 +7452,7 @@ image_id,class
 7451,CatEye
 7452,CatEye
 7453,CatNose
-7454,CatNose
+7454,CatEye
 7455,CatEye
 7456,DogEye
 7457,DogNose
@@ -7491,7 +7491,7 @@ image_id,class
 7490,DogNose
 7491,DogMouth
 7492,DogMouth
-7493,CatNose
+7493,CatEye
 7494,DogMouth
 7495,DogEye
 7496,CatMouth
@@ -7560,7 +7560,7 @@ image_id,class
 7559,CatEye
 7560,CatFace
 7561,CatEye
-7562,CatNose
+7562,CatMouth
 7563,DogMouth
 7564,CatMouth
 7565,DogNose
@@ -7588,7 +7588,7 @@ image_id,class
 7587,CatEye
 7588,CatEye
 7589,DogMouth
-7590,CatMouth
+7590,DogMouth
 7591,DogEye
 7592,CatMouth
 7593,DogMouth
@@ -7708,7 +7708,7 @@ image_id,class
 7707,CatFace
 7708,CatMouth
 7709,CatEye
-7710,DogMouth
+7710,DogEye
 7711,DogNose
 7712,CatEye
 7713,DogFace
@@ -7718,7 +7718,7 @@ image_id,class
 7717,CatEye
 7718,DogMouth
 7719,CatEye
-7720,DogEye
+7720,DogFace
 7721,CatMouth
 7722,DogEye
 7723,DogMouth
@@ -7759,7 +7759,7 @@ image_id,class
 7758,CatMouth
 7759,CatNose
 7760,DogEye
-7761,CatEye
+7761,CatNose
 7762,DogMouth
 7763,CatEye
 7764,CatEye
@@ -7783,17 +7783,17 @@ image_id,class
 7782,DogEye
 7783,CatFace
 7784,DogFace
-7785,DogFace
+7785,DogNose
 7786,DogNose
 7787,DogEye
 7788,CatEye
 7789,CatEye
 7790,CatNose
-7791,CatNose
+7791,CatEye
 7792,DogFace
 7793,CatEye
 7794,CatNose
-7795,DogNose
+7795,DogEye
 7796,CatEye
 7797,DogFace
 7798,CatMouth
@@ -7904,7 +7904,7 @@ image_id,class
 7903,CatFace
 7904,DogEye
 7905,DogMouth
-7906,CatEye
+7906,CatNose
 7907,CatEye
 7908,DogFace
 7909,CatNose
@@ -7940,7 +7940,7 @@ image_id,class
 7939,DogEye
 7940,DogMouth
 7941,DogEye
-7942,DogEye
+7942,CatEye
 7943,CatNose
 7944,DogEye
 7945,CatFace
@@ -7982,7 +7982,7 @@ image_id,class
 7981,DogNose
 7982,DogEye
 7983,CatFace
-7984,DogMouth
+7984,DogEye
 7985,CatNose
 7986,CatFace
 7987,CatEye
@@ -8055,7 +8055,7 @@ image_id,class
 8054,DogEye
 8055,CatEye
 8056,DogEye
-8057,CatMouth
+8057,CatNose
 8058,CatFace
 8059,CatFace
 8060,CatMouth
@@ -8112,7 +8112,7 @@ image_id,class
 8111,DogMouth
 8112,DogFace
 8113,DogEye
-8114,DogMouth
+8114,DogEye
 8115,CatMouth
 8116,CatFace
 8117,DogFace
@@ -8161,7 +8161,7 @@ image_id,class
 8160,DogFace
 8161,CatEye
 8162,CatFace
-8163,CatMouth
+8163,DogMouth
 8164,DogEye
 8165,CatEye
 8166,CatEye
@@ -8282,7 +8282,7 @@ image_id,class
 8281,DogFace
 8282,DogMouth
 8283,DogEye
-8284,DogMouth
+8284,DogEye
 8285,DogEye
 8286,CatEye
 8287,DogEye
@@ -8290,7 +8290,7 @@ image_id,class
 8289,DogMouth
 8290,DogEye
 8291,CatNose
-8292,DogFace
+8292,CatFace
 8293,DogFace
 8294,DogEye
 8295,DogEye
@@ -8362,7 +8362,7 @@ image_id,class
 8361,CatNose
 8362,DogMouth
 8363,DogEye
-8364,DogMouth
+8364,DogEye
 8365,DogMouth
 8366,CatEye
 8367,CatEye
@@ -8375,7 +8375,7 @@ image_id,class
 8374,DogFace
 8375,CatEye
 8376,CatFace
-8377,DogNose
+8377,DogEye
 8378,CatEye
 8379,CatNose
 8380,CatEye
@@ -8443,7 +8443,7 @@ image_id,class
 8442,CatEye
 8443,DogFace
 8444,CatEye
-8445,CatNose
+8445,CatMouth
 8446,DogFace
 8447,CatFace
 8448,DogEye
@@ -8452,7 +8452,7 @@ image_id,class
 8451,DogEye
 8452,CatEye
 8453,DogEye
-8454,CatEye
+8454,DogEye
 8455,CatMouth
 8456,DogFace
 8457,CatMouth
@@ -8530,7 +8530,7 @@ image_id,class
 8529,DogEye
 8530,CatNose
 8531,DogNose
-8532,DogEye
+8532,CatEye
 8533,CatEye
 8534,CatNose
 8535,CatEye
@@ -8599,7 +8599,7 @@ image_id,class
 8598,DogEye
 8599,CatMouth
 8600,CatMouth
-8601,CatNose
+8601,CatMouth
 8602,CatMouth
 8603,DogEye
 8604,CatEye
@@ -8657,7 +8657,7 @@ image_id,class
 8656,DogMouth
 8657,DogNose
 8658,DogMouth
-8659,DogMouth
+8659,DogEye
 8660,CatNose
 8661,CatFace
 8662,DogEye
@@ -8693,7 +8693,7 @@ image_id,class
 8692,CatEye
 8693,CatMouth
 8694,CatEye
-8695,DogMouth
+8695,DogEye
 8696,CatMouth
 8697,CatFace
 8698,CatNose
@@ -8751,7 +8751,7 @@ image_id,class
 8750,DogNose
 8751,DogFace
 8752,CatFace
-8753,CatNose
+8753,CatMouth
 8754,DogFace
 8755,DogMouth
 8756,CatEye
@@ -8811,7 +8811,7 @@ image_id,class
 8810,DogNose
 8811,CatEye
 8812,CatEye
-8813,DogNose
+8813,DogEye
 8814,DogEye
 8815,CatMouth
 8816,CatNose
@@ -8841,7 +8841,7 @@ image_id,class
 8840,CatMouth
 8841,CatFace
 8842,CatNose
-8843,CatMouth
+8843,DogMouth
 8844,DogFace
 8845,CatEye
 8846,DogMouth
@@ -8901,7 +8901,7 @@ image_id,class
 8900,DogEye
 8901,CatNose
 8902,CatNose
-8903,CatNose
+8903,CatMouth
 8904,DogFace
 8905,DogNose
 8906,CatEye
@@ -8980,7 +8980,7 @@ image_id,class
 8979,DogEye
 8980,CatEye
 8981,CatFace
-8982,CatNose
+8982,CatMouth
 8983,CatEye
 8984,DogMouth
 8985,CatFace
@@ -9152,7 +9152,7 @@ image_id,class
 9151,CatEye
 9152,CatFace
 9153,CatEye
-9154,CatNose
+9154,CatMouth
 9155,CatEye
 9156,DogMouth
 9157,CatFace
@@ -9194,9 +9194,9 @@ image_id,class
 9193,CatEye
 9194,CatEye
 9195,DogMouth
-9196,DogMouth
+9196,DogEye
 9197,CatFace
-9198,DogEye
+9198,CatEye
 9199,CatEye
 9200,DogMouth
 9201,CatNose
@@ -9212,7 +9212,7 @@ image_id,class
 9211,CatNose
 9212,DogNose
 9213,DogFace
-9214,DogNose
+9214,DogEye
 9215,CatEye
 9216,DogEye
 9217,CatEye
@@ -9229,7 +9229,7 @@ image_id,class
 9228,DogNose
 9229,CatNose
 9230,DogMouth
-9231,DogMouth
+9231,DogEye
 9232,CatEye
 9233,CatEye
 9234,DogMouth
@@ -9255,7 +9255,7 @@ image_id,class
 9254,CatEye
 9255,CatNose
 9256,DogEye
-9257,DogEye
+9257,CatNose
 9258,DogEye
 9259,DogFace
 9260,DogFace
@@ -9263,7 +9263,7 @@ image_id,class
 9262,DogEye
 9263,DogEye
 9264,DogNose
-9265,DogMouth
+9265,DogEye
 9266,CatEye
 9267,CatMouth
 9268,DogFace
@@ -9290,7 +9290,7 @@ image_id,class
 9289,DogFace
 9290,DogEye
 9291,CatEye
-9292,DogMouth
+9292,DogEye
 9293,DogEye
 9294,DogEye
 9295,DogEye
@@ -9328,7 +9328,7 @@ image_id,class
 9327,CatMouth
 9328,CatEye
 9329,DogMouth
-9330,DogMouth
+9330,DogEye
 9331,DogEye
 9332,CatMouth
 9333,CatFace
@@ -9357,7 +9357,7 @@ image_id,class
 9356,CatEye
 9357,DogNose
 9358,DogEye
-9359,CatNose
+9359,CatMouth
 9360,CatMouth
 9361,DogEye
 9362,CatEye
@@ -9373,9 +9373,9 @@ image_id,class
 9372,CatNose
 9373,CatFace
 9374,CatEye
-9375,CatNose
+9375,CatMouth
 9376,CatEye
-9377,CatMouth
+9377,CatEye
 9378,CatMouth
 9379,DogEye
 9380,CatFace
@@ -9401,7 +9401,7 @@ image_id,class
 9400,CatEye
 9401,CatFace
 9402,DogEye
-9403,CatNose
+9403,CatEye
 9404,CatEye
 9405,DogNose
 9406,DogFace
@@ -9440,7 +9440,7 @@ image_id,class
 9439,CatEye
 9440,DogEye
 9441,DogMouth
-9442,DogEye
+9442,CatEye
 9443,DogEye
 9444,DogMouth
 9445,DogMouth
@@ -9458,7 +9458,7 @@ image_id,class
 9457,DogEye
 9458,CatEye
 9459,CatFace
-9460,CatMouth
+9460,DogMouth
 9461,CatFace
 9462,DogMouth
 9463,DogMouth
@@ -9621,13 +9621,13 @@ image_id,class
 9620,CatEye
 9621,DogFace
 9622,DogEye
-9623,CatEye
+9623,DogEye
 9624,CatEye
 9625,DogNose
 9626,DogEye
 9627,CatEye
 9628,CatEye
-9629,CatNose
+9629,CatEye
 9630,CatEye
 9631,DogNose
 9632,CatMouth
@@ -9755,7 +9755,7 @@ image_id,class
 9754,DogFace
 9755,CatNose
 9756,CatEye
-9757,CatNose
+9757,CatMouth
 9758,CatNose
 9759,DogNose
 9760,DogEye
@@ -10082,7 +10082,7 @@ image_id,class
 10081,CatEye
 10082,DogEye
 10083,DogFace
-10084,DogNose
+10084,DogEye
 10085,CatEye
 10086,DogMouth
 10087,CatMouth
@@ -10241,7 +10241,7 @@ image_id,class
 10240,CatEye
 10241,CatFace
 10242,CatEye
-10243,CatNose
+10243,CatEye
 10244,DogMouth
 10245,CatEye
 10246,CatMouth
@@ -10300,7 +10300,7 @@ image_id,class
 10299,DogMouth
 10300,DogFace
 10301,DogEye
-10302,DogMouth
+10302,CatMouth
 10303,CatNose
 10304,DogEye
 10305,CatMouth
@@ -10328,7 +10328,7 @@ image_id,class
 10327,CatFace
 10328,DogFace
 10329,CatEye
-10330,DogMouth
+10330,DogEye
 10331,DogFace
 10332,CatEye
 10333,CatNose
@@ -10371,7 +10371,7 @@ image_id,class
 10370,DogMouth
 10371,DogFace
 10372,DogEye
-10373,CatMouth
+10373,DogMouth
 10374,DogEye
 10375,DogNose
 10376,CatEye
@@ -10443,7 +10443,7 @@ image_id,class
 10442,CatMouth
 10443,CatEye
 10444,CatMouth
-10445,CatNose
+10445,CatEye
 10446,CatEye
 10447,DogEye
 10448,DogEye
@@ -10453,7 +10453,7 @@ image_id,class
 10452,DogEye
 10453,CatEye
 10454,CatNose
-10455,CatNose
+10455,CatMouth
 10456,CatEye
 10457,DogEye
 10458,CatMouth
@@ -10481,7 +10481,7 @@ image_id,class
 10480,DogNose
 10481,DogEye
 10482,CatMouth
-10483,CatNose
+10483,DogEye
 10484,DogNose
 10485,DogMouth
 10486,DogMouth
@@ -10567,7 +10567,7 @@ image_id,class
 10566,CatNose
 10567,DogNose
 10568,DogEye
-10569,CatNose
+10569,CatMouth
 10570,CatMouth
 10571,CatEye
 10572,CatFace
@@ -10696,7 +10696,7 @@ image_id,class
 10695,CatNose
 10696,DogEye
 10697,CatFace
-10698,CatNose
+10698,CatEye
 10699,DogEye
 10700,DogEye
 10701,CatMouth
@@ -10763,10 +10763,10 @@ image_id,class
 10762,DogFace
 10763,CatMouth
 10764,CatFace
-10765,DogMouth
+10765,DogEye
 10766,CatMouth
 10767,DogEye
-10768,CatNose
+10768,CatMouth
 10769,CatEye
 10770,CatEye
 10771,CatNose
@@ -10828,7 +10828,7 @@ image_id,class
 10827,CatMouth
 10828,DogFace
 10829,CatNose
-10830,CatEye
+10830,DogEye
 10831,DogFace
 10832,DogEye
 10833,CatEye
@@ -10870,7 +10870,7 @@ image_id,class
 10869,DogMouth
 10870,DogFace
 10871,CatEye
-10872,CatNose
+10872,CatFace
 10873,CatNose
 10874,CatNose
 10875,DogNose
@@ -11065,7 +11065,7 @@ image_id,class
 11064,DogEye
 11065,CatNose
 11066,CatEye
-11067,DogNose
+11067,DogEye
 11068,CatMouth
 11069,CatEye
 11070,DogNose
@@ -11141,8 +11141,8 @@ image_id,class
 11140,DogNose
 11141,CatNose
 11142,CatMouth
-11143,CatNose
-11144,CatNose
+11143,CatFace
+11144,CatEye
 11145,DogNose
 11146,CatMouth
 11147,DogFace
@@ -11222,7 +11222,7 @@ image_id,class
 11221,DogEye
 11222,DogEye
 11223,DogEye
-11224,DogFace
+11224,DogEye
 11225,CatNose
 11226,CatEye
 11227,DogNose
@@ -11288,9 +11288,9 @@ image_id,class
 11287,DogFace
 11288,DogNose
 11289,DogEye
-11290,DogMouth
+11290,DogEye
 11291,DogEye
-11292,CatNose
+11292,CatMouth
 11293,DogNose
 11294,CatEye
 11295,CatNose
@@ -11496,7 +11496,7 @@ image_id,class
 11495,DogNose
 11496,CatNose
 11497,DogEye
-11498,CatNose
+11498,DogNose
 11499,CatMouth
 11500,CatMouth
 11501,CatNose
@@ -11609,7 +11609,7 @@ image_id,class
 11608,DogMouth
 11609,CatEye
 11610,CatMouth
-11611,DogMouth
+11611,DogEye
 11612,CatEye
 11613,CatEye
 11614,CatEye
@@ -11682,7 +11682,7 @@ image_id,class
 11681,DogNose
 11682,CatEye
 11683,CatFace
-11684,CatNose
+11684,CatEye
 11685,CatEye
 11686,CatMouth
 11687,CatFace
@@ -11709,7 +11709,7 @@ image_id,class
 11708,DogMouth
 11709,DogEye
 11710,CatFace
-11711,DogFace
+11711,DogEye
 11712,CatEye
 11713,CatMouth
 11714,DogNose
@@ -12001,7 +12001,7 @@ image_id,class
 12000,DogEye
 12001,DogEye
 12002,DogEye
-12003,DogNose
+12003,DogEye
 12004,CatNose
 12005,CatMouth
 12006,CatEye
@@ -12022,7 +12022,7 @@ image_id,class
 12021,CatMouth
 12022,CatEye
 12023,CatMouth
-12024,CatMouth
+12024,DogMouth
 12025,CatEye
 12026,CatNose
 12027,DogNose
@@ -12151,7 +12151,7 @@ image_id,class
 12150,CatEye
 12151,CatMouth
 12152,DogNose
-12153,CatMouth
+12153,DogMouth
 12154,DogEye
 12155,DogFace
 12156,DogMouth
@@ -12173,7 +12173,7 @@ image_id,class
 12172,DogFace
 12173,DogMouth
 12174,DogFace
-12175,CatMouth
+12175,DogMouth
 12176,CatEye
 12177,CatMouth
 12178,DogMouth
@@ -12202,7 +12202,7 @@ image_id,class
 12201,CatMouth
 12202,DogMouth
 12203,CatNose
-12204,DogEye
+12204,CatEye
 12205,CatMouth
 12206,CatEye
 12207,CatNose
@@ -12287,7 +12287,7 @@ image_id,class
 12286,CatEye
 12287,DogMouth
 12288,DogFace
-12289,CatEye
+12289,CatFace
 12290,CatFace
 12291,CatFace
 12292,DogFace
@@ -12376,9 +12376,9 @@ image_id,class
 12375,CatEye
 12376,CatEye
 12377,DogNose
-12378,CatNose
+12378,CatMouth
 12379,DogMouth
-12380,DogEye
+12380,CatEye
 12381,DogEye
 12382,DogFace
 12383,CatEye
@@ -12491,7 +12491,7 @@ image_id,class
 12490,CatNose
 12491,DogEye
 12492,DogMouth
-12493,DogNose
+12493,DogEye
 12494,CatEye
 12495,CatFace
 12496,DogEye
@@ -12572,7 +12572,7 @@ image_id,class
 12571,DogNose
 12572,CatEye
 12573,DogMouth
-12574,DogNose
+12574,DogMouth
 12575,CatFace
 12576,DogMouth
 12577,CatNose
@@ -12804,7 +12804,7 @@ image_id,class
 12803,DogEye
 12804,DogEye
 12805,DogEye
-12806,CatMouth
+12806,CatEye
 12807,CatMouth
 12808,CatMouth
 12809,CatMouth
@@ -12869,7 +12869,7 @@ image_id,class
 12868,CatFace
 12869,DogNose
 12870,CatNose
-12871,CatNose
+12871,CatMouth
 12872,DogEye
 12873,DogEye
 12874,DogEye
@@ -12988,7 +12988,7 @@ image_id,class
 12987,DogEye
 12988,CatEye
 12989,DogNose
-12990,CatNose
+12990,CatMouth
 12991,CatMouth
 12992,DogEye
 12993,CatEye
@@ -13141,7 +13141,7 @@ image_id,class
 13140,DogMouth
 13141,DogEye
 13142,DogMouth
-13143,CatNose
+13143,CatMouth
 13144,CatEye
 13145,CatEye
 13146,DogMouth
@@ -13153,7 +13153,7 @@ image_id,class
 13152,CatEye
 13153,DogNose
 13154,CatEye
-13155,CatNose
+13155,CatMouth
 13156,DogEye
 13157,DogFace
 13158,DogMouth
@@ -13310,11 +13310,11 @@ image_id,class
 13309,DogEye
 13310,CatFace
 13311,DogEye
-13312,CatFace
+13312,CatMouth
 13313,DogFace
 13314,DogEye
 13315,DogNose
-13316,DogEye
+13316,CatEye
 13317,CatEye
 13318,CatMouth
 13319,DogMouth
@@ -13353,7 +13353,7 @@ image_id,class
 13352,CatNose
 13353,CatMouth
 13354,DogEye
-13355,DogMouth
+13355,DogEye
 13356,DogEye
 13357,DogEye
 13358,CatFace
@@ -13477,7 +13477,7 @@ image_id,class
 13476,DogFace
 13477,CatEye
 13478,CatFace
-13479,CatMouth
+13479,CatEye
 13480,CatFace
 13481,DogNose
 13482,CatMouth
@@ -13626,7 +13626,7 @@ image_id,class
 13625,CatFace
 13626,CatFace
 13627,CatFace
-13628,DogMouth
+13628,DogEye
 13629,CatNose
 13630,DogFace
 13631,DogEye
@@ -13692,7 +13692,7 @@ image_id,class
 13691,DogNose
 13692,CatEye
 13693,CatEye
-13694,CatNose
+13694,CatMouth
 13695,DogEye
 13696,DogEye
 13697,CatMouth
@@ -13711,7 +13711,7 @@ image_id,class
 13710,DogFace
 13711,CatNose
 13712,DogEye
-13713,CatNose
+13713,CatEye
 13714,CatFace
 13715,DogEye
 13716,CatEye
@@ -13829,7 +13829,7 @@ image_id,class
 13828,DogFace
 13829,CatEye
 13830,DogMouth
-13831,CatMouth
+13831,CatEye
 13832,CatEye
 13833,CatMouth
 13834,DogEye
@@ -13861,7 +13861,7 @@ image_id,class
 13860,DogEye
 13861,DogEye
 13862,DogFace
-13863,CatEye
+13863,CatNose
 13864,DogEye
 13865,DogEye
 13866,CatEye
@@ -13873,7 +13873,7 @@ image_id,class
 13872,DogNose
 13873,CatEye
 13874,CatFace
-13875,DogNose
+13875,DogEye
 13876,DogFace
 13877,DogFace
 13878,CatEye
@@ -13885,7 +13885,7 @@ image_id,class
 13884,DogEye
 13885,CatMouth
 13886,CatEye
-13887,DogMouth
+13887,DogEye
 13888,DogMouth
 13889,CatMouth
 13890,DogEye
@@ -13893,7 +13893,7 @@ image_id,class
 13892,DogMouth
 13893,CatEye
 13894,CatMouth
-13895,DogMouth
+13895,DogEye
 13896,CatNose
 13897,CatFace
 13898,CatFace
@@ -14067,15 +14067,15 @@ image_id,class
 14066,DogFace
 14067,CatFace
 14068,CatFace
-14069,DogNose
+14069,DogEye
 14070,DogFace
 14071,CatEye
 14072,CatEye
 14073,DogNose
 14074,CatEye
 14075,CatMouth
-14076,DogEye
-14077,DogNose
+14076,CatEye
+14077,DogMouth
 14078,CatEye
 14079,DogEye
 14080,CatEye
@@ -14210,7 +14210,7 @@ image_id,class
 14209,DogMouth
 14210,CatEye
 14211,CatMouth
-14212,CatNose
+14212,CatFace
 14213,DogMouth
 14214,DogEye
 14215,CatEye
@@ -14398,7 +14398,7 @@ image_id,class
 14397,DogNose
 14398,CatEye
 14399,CatMouth
-14400,CatEye
+14400,DogEye
 14401,DogFace
 14402,CatNose
 14403,DogFace
@@ -14454,7 +14454,7 @@ image_id,class
 14453,DogMouth
 14454,CatEye
 14455,DogEye
-14456,DogMouth
+14456,DogEye
 14457,CatEye
 14458,CatNose
 14459,CatMouth
@@ -14523,7 +14523,7 @@ image_id,class
 14522,CatNose
 14523,DogMouth
 14524,CatNose
-14525,CatNose
+14525,CatMouth
 14526,DogEye
 14527,CatNose
 14528,DogMouth
@@ -14720,7 +14720,7 @@ image_id,class
 14719,DogMouth
 14720,DogEye
 14721,DogEye
-14722,CatNose
+14722,CatEye
 14723,CatFace
 14724,DogEye
 14725,CatNose
@@ -14765,7 +14765,7 @@ image_id,class
 14764,DogEye
 14765,DogMouth
 14766,CatEye
-14767,CatEye
+14767,CatNose
 14768,CatFace
 14769,DogNose
 14770,DogFace
@@ -14855,7 +14855,7 @@ image_id,class
 14854,CatEye
 14855,DogNose
 14856,CatMouth
-14857,DogNose
+14857,DogMouth
 14858,DogFace
 14859,DogEye
 14860,CatFace
@@ -14877,7 +14877,7 @@ image_id,class
 14876,DogMouth
 14877,DogFace
 14878,CatMouth
-14879,CatNose
+14879,CatEye
 14880,DogEye
 14881,CatNose
 14882,CatEye
@@ -15052,7 +15052,7 @@ image_id,class
 15051,CatEye
 15052,CatNose
 15053,DogEye
-15054,DogEye
+15054,CatEye
 15055,DogNose
 15056,DogMouth
 15057,DogFace
@@ -15064,7 +15064,7 @@ image_id,class
 15063,CatEye
 15064,CatEye
 15065,CatEye
-15066,CatEye
+15066,DogEye
 15067,DogMouth
 15068,CatNose
 15069,DogFace
@@ -15097,7 +15097,7 @@ image_id,class
 15096,DogFace
 15097,CatEye
 15098,DogEye
-15099,CatMouth
+15099,CatEye
 15100,CatEye
 15101,DogMouth
 15102,CatEye
@@ -15137,7 +15137,7 @@ image_id,class
 15136,DogMouth
 15137,CatEye
 15138,DogNose
-15139,DogFace
+15139,DogEye
 15140,DogEye
 15141,CatEye
 15142,CatNose
@@ -15284,7 +15284,7 @@ image_id,class
 15283,DogMouth
 15284,DogMouth
 15285,CatEye
-15286,CatMouth
+15286,CatEye
 15287,CatNose
 15288,CatMouth
 15289,CatEye
@@ -15340,7 +15340,7 @@ image_id,class
 15339,CatFace
 15340,CatEye
 15341,DogEye
-15342,DogFace
+15342,CatFace
 15343,CatNose
 15344,DogNose
 15345,DogEye
@@ -15362,7 +15362,7 @@ image_id,class
 15361,DogEye
 15362,DogMouth
 15363,CatEye
-15364,DogEye
+15364,CatEye
 15365,CatEye
 15366,CatMouth
 15367,DogEye
@@ -15399,7 +15399,7 @@ image_id,class
 15398,CatEye
 15399,DogMouth
 15400,CatMouth
-15401,CatFace
+15401,DogFace
 15402,CatEye
 15403,CatFace
 15404,CatEye
@@ -15435,7 +15435,7 @@ image_id,class
 15434,DogNose
 15435,CatMouth
 15436,DogEye
-15437,DogNose
+15437,DogEye
 15438,CatMouth
 15439,DogFace
 15440,CatNose
@@ -15471,7 +15471,7 @@ image_id,class
 15470,DogMouth
 15471,CatMouth
 15472,DogMouth
-15473,DogMouth
+15473,DogEye
 15474,DogNose
 15475,DogMouth
 15476,CatNose
@@ -15670,7 +15670,7 @@ image_id,class
 15669,CatNose
 15670,CatFace
 15671,DogNose
-15672,CatNose
+15672,CatMouth
 15673,CatEye
 15674,CatEye
 15675,CatMouth
@@ -15699,7 +15699,7 @@ image_id,class
 15698,DogFace
 15699,DogEye
 15700,CatMouth
-15701,DogNose
+15701,CatNose
 15702,DogEye
 15703,DogNose
 15704,CatMouth
@@ -15719,7 +15719,7 @@ image_id,class
 15718,CatEye
 15719,DogEye
 15720,CatEye
-15721,DogNose
+15721,DogEye
 15722,DogEye
 15723,CatEye
 15724,DogEye
@@ -15745,7 +15745,7 @@ image_id,class
 15744,CatEye
 15745,DogFace
 15746,CatNose
-15747,CatNose
+15747,CatEye
 15748,CatFace
 15749,CatEye
 15750,CatEye
@@ -15758,7 +15758,7 @@ image_id,class
 15757,CatEye
 15758,CatNose
 15759,CatEye
-15760,CatMouth
+15760,CatEye
 15761,CatEye
 15762,CatNose
 15763,DogEye
@@ -15943,7 +15943,7 @@ image_id,class
 15942,DogMouth
 15943,DogMouth
 15944,CatEye
-15945,DogEye
+15945,CatEye
 15946,DogNose
 15947,CatFace
 15948,DogEye
@@ -15953,7 +15953,7 @@ image_id,class
 15952,CatFace
 15953,DogFace
 15954,DogMouth
-15955,CatNose
+15955,CatMouth
 15956,CatEye
 15957,DogFace
 15958,CatNose
@@ -15962,7 +15962,7 @@ image_id,class
 15961,CatEye
 15962,CatEye
 15963,DogFace
-15964,DogNose
+15964,DogEye
 15965,CatEye
 15966,DogFace
 15967,CatFace
@@ -16009,7 +16009,7 @@ image_id,class
 16008,DogMouth
 16009,CatEye
 16010,CatFace
-16011,DogNose
+16011,DogMouth
 16012,DogNose
 16013,CatNose
 16014,DogMouth
@@ -16127,7 +16127,7 @@ image_id,class
 16126,CatFace
 16127,DogEye
 16128,CatEye
-16129,DogEye
+16129,CatEye
 16130,DogFace
 16131,DogNose
 16132,CatNose
@@ -16150,7 +16150,7 @@ image_id,class
 16149,DogEye
 16150,DogEye
 16151,CatNose
-16152,CatNose
+16152,CatMouth
 16153,DogEye
 16154,DogEye
 16155,CatNose
@@ -16184,7 +16184,7 @@ image_id,class
 16183,DogNose
 16184,CatNose
 16185,CatEye
-16186,CatNose
+16186,CatMouth
 16187,CatFace
 16188,CatEye
 16189,DogEye
@@ -16196,7 +16196,7 @@ image_id,class
 16195,DogEye
 16196,DogFace
 16197,DogEye
-16198,CatNose
+16198,CatMouth
 16199,DogEye
 16200,DogFace
 16201,DogEye
@@ -16207,7 +16207,7 @@ image_id,class
 16206,CatEye
 16207,CatEye
 16208,DogNose
-16209,CatMouth
+16209,DogMouth
 16210,DogFace
 16211,CatMouth
 16212,CatEye
@@ -16241,7 +16241,7 @@ image_id,class
 16240,CatEye
 16241,DogEye
 16242,DogEye
-16243,CatNose
+16243,CatMouth
 16244,DogMouth
 16245,CatFace
 16246,DogNose
@@ -16376,7 +16376,7 @@ image_id,class
 16375,CatFace
 16376,DogMouth
 16377,CatNose
-16378,CatEye
+16378,DogEye
 16379,DogMouth
 16380,CatMouth
 16381,DogNose
@@ -16422,7 +16422,7 @@ image_id,class
 16421,CatNose
 16422,CatNose
 16423,DogFace
-16424,DogNose
+16424,DogMouth
 16425,CatEye
 16426,DogNose
 16427,CatNose
@@ -16499,13 +16499,13 @@ image_id,class
 16498,DogFace
 16499,CatEye
 16500,CatNose
-16501,DogNose
+16501,DogEye
 16502,DogNose
 16503,DogMouth
 16504,DogFace
 16505,DogMouth
 16506,DogMouth
-16507,DogNose
+16507,DogMouth
 16508,CatFace
 16509,CatNose
 16510,CatFace
@@ -16517,13 +16517,13 @@ image_id,class
 16516,DogFace
 16517,DogNose
 16518,CatEye
-16519,CatNose
+16519,CatMouth
 16520,CatMouth
 16521,DogMouth
 16522,CatMouth
 16523,CatNose
 16524,CatFace
-16525,CatNose
+16525,CatEye
 16526,DogNose
 16527,DogNose
 16528,DogFace
@@ -16534,7 +16534,7 @@ image_id,class
 16533,DogEye
 16534,CatEye
 16535,DogFace
-16536,CatNose
+16536,DogNose
 16537,DogEye
 16538,CatEye
 16539,DogNose
@@ -16553,7 +16553,7 @@ image_id,class
 16552,CatFace
 16553,CatFace
 16554,DogEye
-16555,DogMouth
+16555,DogEye
 16556,DogEye
 16557,CatEye
 16558,CatMouth
@@ -16579,7 +16579,7 @@ image_id,class
 16578,CatFace
 16579,CatEye
 16580,DogEye
-16581,CatNose
+16581,CatFace
 16582,CatMouth
 16583,DogEye
 16584,DogEye
@@ -16622,7 +16622,7 @@ image_id,class
 16621,DogNose
 16622,CatFace
 16623,DogEye
-16624,DogNose
+16624,DogMouth
 16625,CatNose
 16626,DogEye
 16627,DogEye
@@ -16663,13 +16663,13 @@ image_id,class
 16662,DogEye
 16663,DogFace
 16664,CatNose
-16665,DogNose
+16665,DogEye
 16666,CatMouth
 16667,DogNose
 16668,DogFace
 16669,DogMouth
 16670,DogNose
-16671,DogNose
+16671,DogEye
 16672,DogEye
 16673,CatEye
 16674,CatMouth
@@ -16722,7 +16722,7 @@ image_id,class
 16721,CatNose
 16722,DogFace
 16723,DogNose
-16724,CatNose
+16724,DogEye
 16725,CatNose
 16726,CatFace
 16727,DogFace
@@ -16747,7 +16747,7 @@ image_id,class
 16746,CatMouth
 16747,DogEye
 16748,DogNose
-16749,CatNose
+16749,CatMouth
 16750,DogEye
 16751,CatFace
 16752,CatEye
@@ -16805,7 +16805,7 @@ image_id,class
 16804,CatEye
 16805,DogFace
 16806,CatEye
-16807,DogMouth
+16807,DogEye
 16808,DogEye
 16809,DogNose
 16810,DogEye
@@ -16882,7 +16882,7 @@ image_id,class
 16881,DogEye
 16882,CatNose
 16883,DogFace
-16884,DogEye
+16884,CatEye
 16885,DogMouth
 16886,DogFace
 16887,CatEye
@@ -17056,7 +17056,7 @@ image_id,class
 17055,DogEye
 17056,DogEye
 17057,CatEye
-17058,CatNose
+17058,CatEye
 17059,CatFace
 17060,CatFace
 17061,CatEye
@@ -17076,7 +17076,7 @@ image_id,class
 17075,DogEye
 17076,DogFace
 17077,CatEye
-17078,DogMouth
+17078,DogEye
 17079,CatEye
 17080,CatMouth
 17081,CatFace
@@ -17145,7 +17145,7 @@ image_id,class
 17144,CatMouth
 17145,DogMouth
 17146,DogFace
-17147,DogEye
+17147,CatEye
 17148,DogEye
 17149,CatNose
 17150,DogEye
@@ -17162,13 +17162,13 @@ image_id,class
 17161,CatMouth
 17162,CatEye
 17163,CatNose
-17164,DogEye
+17164,CatEye
 17165,CatEye
 17166,CatNose
 17167,DogMouth
 17168,CatNose
 17169,CatFace
-17170,CatNose
+17170,CatEye
 17171,DogEye
 17172,DogNose
 17173,DogEye
@@ -17209,7 +17209,7 @@ image_id,class
 17208,CatFace
 17209,CatMouth
 17210,DogMouth
-17211,DogNose
+17211,DogEye
 17212,CatEye
 17213,CatEye
 17214,DogMouth
@@ -17327,7 +17327,7 @@ image_id,class
 17326,DogFace
 17327,DogMouth
 17328,CatEye
-17329,DogEye
+17329,CatNose
 17330,DogMouth
 17331,DogMouth
 17332,CatMouth
@@ -17349,9 +17349,9 @@ image_id,class
 17348,CatMouth
 17349,CatEye
 17350,DogMouth
-17351,CatMouth
+17351,DogMouth
 17352,CatNose
-17353,CatNose
+17353,CatMouth
 17354,DogMouth
 17355,DogEye
 17356,DogEye
@@ -17405,7 +17405,7 @@ image_id,class
 17404,DogFace
 17405,DogFace
 17406,DogEye
-17407,DogMouth
+17407,DogEye
 17408,CatEye
 17409,DogFace
 17410,DogMouth
@@ -17534,7 +17534,7 @@ image_id,class
 17533,DogEye
 17534,DogMouth
 17535,CatEye
-17536,DogFace
+17536,CatFace
 17537,CatMouth
 17538,DogEye
 17539,DogEye
@@ -17568,7 +17568,7 @@ image_id,class
 17567,CatEye
 17568,DogFace
 17569,DogEye
-17570,DogEye
+17570,CatEye
 17571,DogNose
 17572,CatMouth
 17573,CatMouth
@@ -17654,7 +17654,7 @@ image_id,class
 17653,CatEye
 17654,DogEye
 17655,DogNose
-17656,CatNose
+17656,CatEye
 17657,DogNose
 17658,DogEye
 17659,DogEye
@@ -17756,9 +17756,9 @@ image_id,class
 17755,DogEye
 17756,CatFace
 17757,CatMouth
-17758,CatMouth
+17758,CatEye
 17759,CatFace
-17760,CatMouth
+17760,DogMouth
 17761,CatMouth
 17762,DogMouth
 17763,DogEye
@@ -17795,7 +17795,7 @@ image_id,class
 17794,DogFace
 17795,DogMouth
 17796,DogMouth
-17797,CatNose
+17797,CatMouth
 17798,CatFace
 17799,DogEye
 17800,CatFace
@@ -17808,7 +17808,7 @@ image_id,class
 17807,DogEye
 17808,CatFace
 17809,DogEye
-17810,CatNose
+17810,CatEye
 17811,DogMouth
 17812,CatEye
 17813,CatMouth
@@ -17836,11 +17836,11 @@ image_id,class
 17835,DogEye
 17836,CatFace
 17837,CatNose
-17838,CatNose
+17838,CatEye
 17839,CatEye
 17840,DogMouth
 17841,CatEye
-17842,DogFace
+17842,DogMouth
 17843,DogFace
 17844,CatNose
 17845,DogFace
@@ -17875,7 +17875,7 @@ image_id,class
 17874,CatEye
 17875,CatEye
 17876,DogEye
-17877,CatNose
+17877,CatMouth
 17878,DogNose
 17879,DogEye
 17880,DogEye
@@ -17935,14 +17935,14 @@ image_id,class
 17934,DogFace
 17935,DogEye
 17936,CatEye
-17937,DogNose
+17937,DogFace
 17938,CatEye
 17939,CatEye
 17940,CatFace
 17941,CatFace
 17942,DogEye
 17943,CatMouth
-17944,CatMouth
+17944,CatEye
 17945,DogNose
 17946,CatEye
 17947,CatMouth
@@ -17980,7 +17980,7 @@ image_id,class
 17979,CatEye
 17980,DogEye
 17981,DogMouth
-17982,DogMouth
+17982,DogEye
 17983,CatEye
 17984,CatMouth
 17985,CatNose
@@ -18030,7 +18030,7 @@ image_id,class
 18029,DogMouth
 18030,CatFace
 18031,DogMouth
-18032,DogNose
+18032,DogEye
 18033,DogMouth
 18034,CatEye
 18035,CatEye
@@ -18104,7 +18104,7 @@ image_id,class
 18103,DogMouth
 18104,CatEye
 18105,DogEye
-18106,CatEye
+18106,DogEye
 18107,CatEye
 18108,CatNose
 18109,DogFace
@@ -18217,7 +18217,7 @@ image_id,class
 18216,CatNose
 18217,CatEye
 18218,CatNose
-18219,DogEye
+18219,CatEye
 18220,CatMouth
 18221,DogNose
 18222,CatFace
@@ -18228,7 +18228,7 @@ image_id,class
 18227,DogMouth
 18228,CatFace
 18229,DogMouth
-18230,DogFace
+18230,DogEye
 18231,CatNose
 18232,DogMouth
 18233,DogMouth
@@ -18263,7 +18263,7 @@ image_id,class
 18262,CatEye
 18263,DogEye
 18264,DogFace
-18265,DogEye
+18265,DogNose
 18266,CatMouth
 18267,DogNose
 18268,DogEye
@@ -18532,7 +18532,7 @@ image_id,class
 18531,CatEye
 18532,CatNose
 18533,DogEye
-18534,CatNose
+18534,CatEye
 18535,CatFace
 18536,CatNose
 18537,CatNose
@@ -18541,7 +18541,7 @@ image_id,class
 18540,CatEye
 18541,DogEye
 18542,DogEye
-18543,CatMouth
+18543,CatEye
 18544,CatEye
 18545,DogMouth
 18546,CatNose
@@ -18589,7 +18589,7 @@ image_id,class
 18588,CatFace
 18589,CatEye
 18590,CatEye
-18591,DogMouth
+18591,DogFace
 18592,DogFace
 18593,CatFace
 18594,CatEye
@@ -18626,7 +18626,7 @@ image_id,class
 18625,DogNose
 18626,CatEye
 18627,DogFace
-18628,DogNose
+18628,DogEye
 18629,CatFace
 18630,DogEye
 18631,CatMouth
@@ -18647,20 +18647,20 @@ image_id,class
 18646,DogNose
 18647,CatMouth
 18648,CatNose
-18649,CatMouth
+18649,DogMouth
 18650,CatEye
 18651,CatEye
 18652,DogEye
 18653,CatEye
 18654,DogFace
 18655,DogEye
-18656,CatMouth
+18656,DogMouth
 18657,DogMouth
 18658,CatEye
 18659,DogEye
 18660,DogFace
 18661,DogEye
-18662,DogNose
+18662,CatNose
 18663,CatMouth
 18664,CatEye
 18665,DogMouth
@@ -18685,7 +18685,7 @@ image_id,class
 18684,CatFace
 18685,DogEye
 18686,CatFace
-18687,DogEye
+18687,CatNose
 18688,CatNose
 18689,CatNose
 18690,DogMouth
@@ -18707,7 +18707,7 @@ image_id,class
 18706,DogMouth
 18707,DogEye
 18708,DogFace
-18709,CatNose
+18709,CatMouth
 18710,CatMouth
 18711,DogNose
 18712,CatEye
@@ -18837,7 +18837,7 @@ image_id,class
 18836,CatEye
 18837,CatEye
 18838,CatEye
-18839,CatNose
+18839,CatMouth
 18840,CatNose
 18841,DogEye
 18842,DogEye
@@ -18869,7 +18869,7 @@ image_id,class
 18868,CatEye
 18869,DogMouth
 18870,CatMouth
-18871,DogMouth
+18871,DogNose
 18872,CatEye
 18873,DogNose
 18874,CatEye
@@ -18886,7 +18886,7 @@ image_id,class
 18885,DogEye
 18886,DogEye
 18887,CatEye
-18888,DogNose
+18888,CatNose
 18889,CatNose
 18890,DogMouth
 18891,DogMouth
@@ -18969,7 +18969,7 @@ image_id,class
 18968,DogFace
 18969,DogFace
 18970,CatFace
-18971,CatEye
+18971,DogEye
 18972,CatMouth
 18973,DogEye
 18974,DogEye
@@ -19014,7 +19014,7 @@ image_id,class
 19013,CatEye
 19014,DogNose
 19015,CatMouth
-19016,DogMouth
+19016,DogEye
 19017,CatEye
 19018,CatFace
 19019,CatNose
@@ -19135,9 +19135,9 @@ image_id,class
 19134,CatMouth
 19135,DogFace
 19136,CatNose
-19137,CatNose
+19137,CatFace
 19138,CatMouth
-19139,CatNose
+19139,CatFace
 19140,DogMouth
 19141,CatNose
 19142,CatEye
@@ -19231,7 +19231,7 @@ image_id,class
 19230,DogEye
 19231,CatFace
 19232,DogMouth
-19233,CatNose
+19233,CatMouth
 19234,CatEye
 19235,CatMouth
 19236,DogFace
@@ -19461,7 +19461,7 @@ image_id,class
 19460,DogMouth
 19461,CatEye
 19462,CatNose
-19463,DogFace
+19463,CatFace
 19464,CatMouth
 19465,DogEye
 19466,CatMouth
@@ -19492,7 +19492,7 @@ image_id,class
 19491,CatFace
 19492,DogNose
 19493,DogNose
-19494,CatNose
+19494,CatEye
 19495,DogFace
 19496,CatFace
 19497,CatFace
@@ -19571,7 +19571,7 @@ image_id,class
 19570,CatFace
 19571,DogEye
 19572,DogMouth
-19573,CatNose
+19573,CatMouth
 19574,CatEye
 19575,DogFace
 19576,DogEye
@@ -19612,7 +19612,7 @@ image_id,class
 19611,DogFace
 19612,DogEye
 19613,CatEye
-19614,CatNose
+19614,CatMouth
 19615,DogNose
 19616,CatFace
 19617,CatEye
@@ -19731,7 +19731,7 @@ image_id,class
 19730,CatEye
 19731,CatNose
 19732,DogEye
-19733,DogMouth
+19733,DogEye
 19734,DogNose
 19735,DogEye
 19736,DogNose
@@ -19759,7 +19759,7 @@ image_id,class
 19758,CatEye
 19759,DogEye
 19760,CatEye
-19761,DogFace
+19761,DogEye
 19762,DogEye
 19763,CatFace
 19764,DogNose
@@ -19801,7 +19801,7 @@ image_id,class
 19800,DogNose
 19801,CatMouth
 19802,DogEye
-19803,DogNose
+19803,DogMouth
 19804,DogEye
 19805,DogEye
 19806,DogEye
@@ -20085,9 +20085,9 @@ image_id,class
 20084,CatEye
 20085,DogFace
 20086,CatEye
-20087,CatNose
+20087,CatEye
 20088,DogEye
-20089,CatNose
+20089,CatEye
 20090,CatEye
 20091,DogEye
 20092,CatMouth
@@ -20414,7 +20414,7 @@ image_id,class
 20413,CatMouth
 20414,CatMouth
 20415,CatMouth
-20416,CatNose
+20416,CatMouth
 20417,DogFace
 20418,DogEye
 20419,DogEye
@@ -20471,7 +20471,7 @@ image_id,class
 20470,DogMouth
 20471,DogMouth
 20472,DogEye
-20473,DogMouth
+20473,DogEye
 20474,DogEye
 20475,CatEye
 20476,DogEye
@@ -20531,7 +20531,7 @@ image_id,class
 20530,DogNose
 20531,DogFace
 20532,CatMouth
-20533,DogFace
+20533,DogNose
 20534,CatEye
 20535,DogNose
 20536,CatEye
@@ -20574,7 +20574,7 @@ image_id,class
 20573,DogMouth
 20574,DogNose
 20575,DogFace
-20576,CatNose
+20576,CatFace
 20577,CatNose
 20578,CatNose
 20579,DogMouth
@@ -20582,7 +20582,7 @@ image_id,class
 20581,CatEye
 20582,DogEye
 20583,CatEye
-20584,DogFace
+20584,CatFace
 20585,CatMouth
 20586,CatMouth
 20587,DogFace
@@ -20692,7 +20692,7 @@ image_id,class
 20691,CatEye
 20692,CatNose
 20693,DogFace
-20694,CatMouth
+20694,CatEye
 20695,CatFace
 20696,DogEye
 20697,DogMouth
@@ -20768,7 +20768,7 @@ image_id,class
 20767,CatNose
 20768,DogNose
 20769,DogFace
-20770,DogNose
+20770,DogEye
 20771,DogEye
 20772,DogEye
 20773,DogNose
@@ -20823,7 +20823,7 @@ image_id,class
 20822,CatNose
 20823,CatEye
 20824,CatFace
-20825,CatNose
+20825,CatFace
 20826,DogEye
 20827,CatMouth
 20828,DogMouth
@@ -20846,7 +20846,7 @@ image_id,class
 20845,CatMouth
 20846,DogNose
 20847,CatMouth
-20848,CatNose
+20848,CatMouth
 20849,CatFace
 20850,CatEye
 20851,DogMouth
@@ -20875,7 +20875,7 @@ image_id,class
 20874,CatFace
 20875,DogFace
 20876,CatEye
-20877,DogEye
+20877,CatEye
 20878,CatFace
 20879,CatMouth
 20880,DogNose
@@ -20972,7 +20972,7 @@ image_id,class
 20971,CatEye
 20972,CatEye
 20973,DogNose
-20974,DogNose
+20974,DogMouth
 20975,CatEye
 20976,CatFace
 20977,CatMouth
@@ -21136,7 +21136,7 @@ image_id,class
 21135,CatMouth
 21136,DogNose
 21137,DogMouth
-21138,DogEye
+21138,CatEye
 21139,DogNose
 21140,DogFace
 21141,CatNose
@@ -21240,7 +21240,7 @@ image_id,class
 21239,DogEye
 21240,DogEye
 21241,DogMouth
-21242,DogNose
+21242,DogMouth
 21243,DogFace
 21244,DogMouth
 21245,CatFace
@@ -21340,7 +21340,7 @@ image_id,class
 21339,DogMouth
 21340,DogNose
 21341,DogNose
-21342,DogNose
+21342,DogMouth
 21343,CatMouth
 21344,CatMouth
 21345,DogMouth
@@ -21413,7 +21413,7 @@ image_id,class
 21412,DogMouth
 21413,CatNose
 21414,CatEye
-21415,CatNose
+21415,CatEye
 21416,DogMouth
 21417,CatEye
 21418,DogMouth
@@ -21545,7 +21545,7 @@ image_id,class
 21544,DogNose
 21545,DogEye
 21546,DogMouth
-21547,DogNose
+21547,CatEye
 21548,DogEye
 21549,CatFace
 21550,CatEye
@@ -21633,7 +21633,7 @@ image_id,class
 21632,CatMouth
 21633,DogMouth
 21634,DogMouth
-21635,CatNose
+21635,CatMouth
 21636,CatNose
 21637,DogEye
 21638,CatNose
@@ -21737,7 +21737,7 @@ image_id,class
 21736,CatMouth
 21737,DogEye
 21738,DogEye
-21739,CatMouth
+21739,CatFace
 21740,DogFace
 21741,DogEye
 21742,CatFace
@@ -21788,7 +21788,7 @@ image_id,class
 21787,DogMouth
 21788,CatMouth
 21789,CatMouth
-21790,CatMouth
+21790,CatEye
 21791,CatMouth
 21792,DogFace
 21793,DogNose
@@ -21832,7 +21832,7 @@ image_id,class
 21831,CatEye
 21832,DogMouth
 21833,CatMouth
-21834,CatMouth
+21834,DogMouth
 21835,CatNose
 21836,CatEye
 21837,DogMouth
@@ -21905,9 +21905,9 @@ image_id,class
 21904,CatEye
 21905,CatFace
 21906,DogNose
-21907,DogMouth
+21907,DogEye
 21908,CatEye
-21909,DogMouth
+21909,DogNose
 21910,CatNose
 21911,DogMouth
 21912,CatFace
@@ -21916,8 +21916,8 @@ image_id,class
 21915,DogFace
 21916,CatMouth
 21917,CatEye
-21918,DogMouth
-21919,CatNose
+21918,DogEye
+21919,CatEye
 21920,DogNose
 21921,DogFace
 21922,DogEye
@@ -21939,7 +21939,7 @@ image_id,class
 21938,CatFace
 21939,DogFace
 21940,DogFace
-21941,DogEye
+21941,CatEye
 21942,CatMouth
 21943,DogMouth
 21944,DogEye
@@ -22012,7 +22012,7 @@ image_id,class
 22011,DogMouth
 22012,DogMouth
 22013,DogEye
-22014,DogNose
+22014,DogEye
 22015,DogEye
 22016,CatFace
 22017,CatNose
@@ -22121,8 +22121,8 @@ image_id,class
 22120,CatMouth
 22121,CatNose
 22122,CatEye
-22123,DogNose
-22124,CatNose
+22123,CatNose
+22124,CatMouth
 22125,DogFace
 22126,CatEye
 22127,CatEye
@@ -22132,7 +22132,7 @@ image_id,class
 22131,CatEye
 22132,DogFace
 22133,DogFace
-22134,DogEye
+22134,CatEye
 22135,CatMouth
 22136,DogEye
 22137,CatEye
@@ -22140,7 +22140,7 @@ image_id,class
 22139,DogMouth
 22140,CatEye
 22141,CatEye
-22142,DogEye
+22142,CatEye
 22143,DogMouth
 22144,DogFace
 22145,CatNose
@@ -22151,10 +22151,10 @@ image_id,class
 22150,DogEye
 22151,CatEye
 22152,CatNose
-22153,CatMouth
+22153,DogMouth
 22154,CatFace
 22155,CatEye
-22156,CatMouth
+22156,DogMouth
 22157,DogEye
 22158,DogEye
 22159,DogEye
@@ -22176,7 +22176,7 @@ image_id,class
 22175,DogNose
 22176,CatEye
 22177,DogEye
-22178,DogNose
+22178,DogEye
 22179,DogNose
 22180,CatMouth
 22181,CatEye
@@ -22204,14 +22204,14 @@ image_id,class
 22203,DogFace
 22204,CatFace
 22205,DogEye
-22206,DogEye
+22206,CatEye
 22207,DogFace
 22208,DogEye
 22209,CatFace
 22210,DogEye
 22211,DogEye
 22212,DogEye
-22213,CatNose
+22213,CatEye
 22214,CatEye
 22215,CatFace
 22216,DogEye
@@ -22227,7 +22227,7 @@ image_id,class
 22226,CatEye
 22227,CatFace
 22228,CatFace
-22229,CatNose
+22229,DogNose
 22230,CatFace
 22231,DogMouth
 22232,DogEye
@@ -22269,7 +22269,7 @@ image_id,class
 22268,DogFace
 22269,CatFace
 22270,DogEye
-22271,DogMouth
+22271,DogEye
 22272,DogEye
 22273,DogEye
 22274,CatFace
@@ -22302,7 +22302,7 @@ image_id,class
 22301,DogEye
 22302,DogMouth
 22303,CatFace
-22304,CatNose
+22304,CatEye
 22305,DogFace
 22306,DogEye
 22307,DogEye
@@ -22314,7 +22314,7 @@ image_id,class
 22313,CatMouth
 22314,DogFace
 22315,CatMouth
-22316,CatNose
+22316,CatEye
 22317,CatEye
 22318,CatNose
 22319,DogEye
@@ -22396,7 +22396,7 @@ image_id,class
 22395,CatEye
 22396,CatEye
 22397,CatMouth
-22398,DogEye
+22398,CatEye
 22399,DogMouth
 22400,CatMouth
 22401,DogFace
@@ -22406,7 +22406,7 @@ image_id,class
 22405,CatEye
 22406,DogFace
 22407,CatFace
-22408,CatNose
+22408,CatEye
 22409,DogMouth
 22410,CatEye
 22411,DogEye
@@ -22451,7 +22451,7 @@ image_id,class
 22450,DogNose
 22451,DogMouth
 22452,CatEye
-22453,DogNose
+22453,CatNose
 22454,CatFace
 22455,CatEye
 22456,DogMouth
@@ -22479,7 +22479,7 @@ image_id,class
 22478,CatEye
 22479,CatEye
 22480,CatEye
-22481,DogMouth
+22481,DogFace
 22482,CatNose
 22483,CatEye
 22484,DogFace
@@ -22487,7 +22487,7 @@ image_id,class
 22486,CatNose
 22487,CatEye
 22488,DogMouth
-22489,DogEye
+22489,CatEye
 22490,CatEye
 22491,CatNose
 22492,CatMouth
@@ -22645,7 +22645,7 @@ image_id,class
 22644,DogMouth
 22645,CatNose
 22646,CatEye
-22647,CatNose
+22647,CatEye
 22648,DogNose
 22649,CatMouth
 22650,DogMouth
@@ -22687,7 +22687,7 @@ image_id,class
 22686,CatEye
 22687,CatEye
 22688,DogMouth
-22689,DogMouth
+22689,DogEye
 22690,CatFace
 22691,DogEye
 22692,CatEye
@@ -22703,9 +22703,9 @@ image_id,class
 22702,CatEye
 22703,DogNose
 22704,CatEye
-22705,DogMouth
+22705,DogNose
 22706,DogNose
-22707,CatMouth
+22707,DogMouth
 22708,DogNose
 22709,CatFace
 22710,DogMouth
@@ -22737,7 +22737,7 @@ image_id,class
 22736,CatMouth
 22737,DogFace
 22738,CatFace
-22739,DogMouth
+22739,DogNose
 22740,CatMouth
 22741,DogFace
 22742,CatFace
@@ -22759,7 +22759,7 @@ image_id,class
 22758,CatEye
 22759,CatEye
 22760,DogNose
-22761,DogMouth
+22761,DogEye
 22762,DogEye
 22763,DogMouth
 22764,DogEye
@@ -22805,7 +22805,7 @@ image_id,class
 22804,CatFace
 22805,DogEye
 22806,DogEye
-22807,DogMouth
+22807,DogEye
 22808,DogMouth
 22809,DogNose
 22810,CatEye
@@ -22813,7 +22813,7 @@ image_id,class
 22812,CatEye
 22813,CatNose
 22814,DogEye
-22815,CatNose
+22815,CatMouth
 22816,CatEye
 22817,CatFace
 22818,DogMouth
@@ -22853,7 +22853,7 @@ image_id,class
 22852,CatNose
 22853,DogNose
 22854,DogNose
-22855,DogNose
+22855,DogEye
 22856,CatEye
 22857,CatNose
 22858,DogMouth
@@ -22862,7 +22862,7 @@ image_id,class
 22861,DogNose
 22862,DogEye
 22863,CatMouth
-22864,CatNose
+22864,CatEye
 22865,CatNose
 22866,DogNose
 22867,DogMouth
@@ -22879,7 +22879,7 @@ image_id,class
 22878,CatNose
 22879,CatEye
 22880,DogNose
-22881,DogEye
+22881,CatEye
 22882,DogMouth
 22883,DogEye
 22884,CatMouth
@@ -22929,7 +22929,7 @@ image_id,class
 22928,CatMouth
 22929,DogFace
 22930,DogEye
-22931,CatEye
+22931,DogEye
 22932,DogMouth
 22933,DogMouth
 22934,DogMouth
@@ -22967,7 +22967,7 @@ image_id,class
 22966,CatEye
 22967,DogMouth
 22968,CatFace
-22969,CatNose
+22969,CatMouth
 22970,CatMouth
 22971,CatMouth
 22972,DogMouth
@@ -22978,7 +22978,7 @@ image_id,class
 22977,DogEye
 22978,CatNose
 22979,CatNose
-22980,CatNose
+22980,CatMouth
 22981,CatMouth
 22982,CatEye
 22983,DogFace
@@ -23042,7 +23042,7 @@ image_id,class
 23041,DogEye
 23042,DogMouth
 23043,CatNose
-23044,CatMouth
+23044,DogMouth
 23045,DogEye
 23046,CatMouth
 23047,DogEye
@@ -23059,7 +23059,7 @@ image_id,class
 23058,DogMouth
 23059,DogFace
 23060,CatMouth
-23061,DogNose
+23061,DogEye
 23062,CatNose
 23063,CatEye
 23064,DogFace
@@ -23093,7 +23093,7 @@ image_id,class
 23092,DogFace
 23093,CatNose
 23094,DogMouth
-23095,DogEye
+23095,CatEye
 23096,CatFace
 23097,DogNose
 23098,CatMouth
@@ -23127,7 +23127,7 @@ image_id,class
 23126,DogNose
 23127,DogEye
 23128,DogEye
-23129,DogNose
+23129,DogEye
 23130,CatNose
 23131,CatEye
 23132,CatFace
@@ -23158,7 +23158,7 @@ image_id,class
 23157,DogNose
 23158,DogFace
 23159,DogMouth
-23160,CatNose
+23160,CatMouth
 23161,CatEye
 23162,DogMouth
 23163,CatMouth
@@ -23232,7 +23232,7 @@ image_id,class
 23231,CatEye
 23232,DogMouth
 23233,CatEye
-23234,DogMouth
+23234,DogEye
 23235,DogFace
 23236,CatMouth
 23237,CatMouth
@@ -23278,7 +23278,7 @@ image_id,class
 23277,DogMouth
 23278,DogEye
 23279,CatNose
-23280,DogNose
+23280,DogMouth
 23281,CatEye
 23282,CatMouth
 23283,DogEye
@@ -23363,7 +23363,7 @@ image_id,class
 23362,DogFace
 23363,CatFace
 23364,CatEye
-23365,CatMouth
+23365,CatEye
 23366,CatFace
 23367,DogEye
 23368,DogEye
@@ -23378,7 +23378,7 @@ image_id,class
 23377,CatEye
 23378,DogMouth
 23379,DogNose
-23380,DogNose
+23380,DogMouth
 23381,DogNose
 23382,CatEye
 23383,CatEye
@@ -23430,7 +23430,7 @@ image_id,class
 23429,CatEye
 23430,DogFace
 23431,DogEye
-23432,CatNose
+23432,CatEye
 23433,DogFace
 23434,CatMouth
 23435,CatEye
@@ -23519,7 +23519,7 @@ image_id,class
 23518,CatEye
 23519,DogMouth
 23520,DogMouth
-23521,CatNose
+23521,CatEye
 23522,CatMouth
 23523,CatFace
 23524,DogEye
@@ -23577,7 +23577,7 @@ image_id,class
 23576,DogFace
 23577,CatNose
 23578,CatMouth
-23579,DogEye
+23579,CatEye
 23580,CatNose
 23581,DogFace
 23582,DogNose
@@ -23627,7 +23627,7 @@ image_id,class
 23626,DogFace
 23627,CatFace
 23628,CatEye
-23629,CatFace
+23629,CatEye
 23630,CatEye
 23631,CatEye
 23632,DogFace
@@ -23759,7 +23759,7 @@ image_id,class
 23758,CatMouth
 23759,CatEye
 23760,CatMouth
-23761,CatNose
+23761,CatEye
 23762,DogEye
 23763,CatEye
 23764,CatMouth
@@ -23845,7 +23845,7 @@ image_id,class
 23844,CatEye
 23845,CatFace
 23846,DogNose
-23847,CatEye
+23847,CatFace
 23848,DogEye
 23849,CatNose
 23850,DogEye
@@ -23929,7 +23929,7 @@ image_id,class
 23928,CatMouth
 23929,CatMouth
 23930,DogEye
-23931,CatNose
+23931,CatMouth
 23932,DogEye
 23933,DogMouth
 23934,DogEye
@@ -23939,7 +23939,7 @@ image_id,class
 23938,DogEye
 23939,CatEye
 23940,CatMouth
-23941,DogEye
+23941,DogFace
 23942,CatMouth
 23943,CatMouth
 23944,CatNose
@@ -23950,7 +23950,7 @@ image_id,class
 23949,DogEye
 23950,CatMouth
 23951,DogNose
-23952,CatFace
+23952,DogFace
 23953,DogNose
 23954,DogFace
 23955,DogEye
@@ -24136,7 +24136,7 @@ image_id,class
 24135,CatEye
 24136,CatFace
 24137,DogEye
-24138,CatNose
+24138,CatEye
 24139,CatEye
 24140,DogEye
 24141,DogMouth
@@ -24216,7 +24216,7 @@ image_id,class
 24215,DogEye
 24216,CatEye
 24217,DogNose
-24218,DogNose
+24218,DogEye
 24219,CatFace
 24220,CatMouth
 24221,CatEye
@@ -24231,7 +24231,7 @@ image_id,class
 24230,CatEye
 24231,CatMouth
 24232,DogMouth
-24233,DogEye
+24233,CatEye
 24234,CatNose
 24235,CatFace
 24236,DogEye
@@ -24320,7 +24320,7 @@ image_id,class
 24319,DogMouth
 24320,DogMouth
 24321,DogEye
-24322,DogEye
+24322,DogFace
 24323,CatEye
 24324,DogNose
 24325,DogFace
@@ -24381,7 +24381,7 @@ image_id,class
 24380,DogMouth
 24381,DogMouth
 24382,CatNose
-24383,DogMouth
+24383,DogEye
 24384,CatNose
 24385,DogMouth
 24386,CatEye
@@ -24456,7 +24456,7 @@ image_id,class
 24455,DogNose
 24456,CatNose
 24457,DogNose
-24458,DogFace
+24458,CatNose
 24459,DogFace
 24460,CatEye
 24461,DogEye
@@ -24544,7 +24544,7 @@ image_id,class
 24543,DogFace
 24544,CatEye
 24545,CatEye
-24546,DogEye
+24546,CatEye
 24547,DogEye
 24548,DogFace
 24549,DogEye
@@ -24622,7 +24622,7 @@ image_id,class
 24621,CatEye
 24622,CatFace
 24623,CatMouth
-24624,DogMouth
+24624,DogNose
 24625,DogNose
 24626,DogEye
 24627,CatMouth
@@ -24631,7 +24631,7 @@ image_id,class
 24630,DogFace
 24631,CatNose
 24632,DogFace
-24633,DogMouth
+24633,DogEye
 24634,DogMouth
 24635,CatFace
 24636,DogMouth
@@ -24659,12 +24659,12 @@ image_id,class
 24658,DogMouth
 24659,DogEye
 24660,CatEye
-24661,DogNose
+24661,CatNose
 24662,DogEye
 24663,CatNose
 24664,DogEye
 24665,DogNose
-24666,CatNose
+24666,CatMouth
 24667,CatEye
 24668,DogFace
 24669,CatEye
@@ -24736,7 +24736,7 @@ image_id,class
 24735,DogFace
 24736,DogNose
 24737,CatNose
-24738,DogMouth
+24738,DogFace
 24739,DogEye
 24740,DogFace
 24741,CatMouth
@@ -24769,7 +24769,7 @@ image_id,class
 24768,DogMouth
 24769,CatEye
 24770,CatEye
-24771,DogNose
+24771,DogEye
 24772,CatFace
 24773,DogMouth
 24774,CatMouth
@@ -24779,10 +24779,10 @@ image_id,class
 24778,CatMouth
 24779,CatFace
 24780,CatNose
-24781,CatMouth
+24781,CatEye
 24782,DogEye
 24783,CatEye
-24784,DogMouth
+24784,DogEye
 24785,CatNose
 24786,CatEye
 24787,DogMouth
@@ -24832,7 +24832,7 @@ image_id,class
 24831,DogMouth
 24832,DogNose
 24833,CatFace
-24834,DogEye
+24834,CatEye
 24835,DogEye
 24836,CatEye
 24837,DogMouth
@@ -24868,7 +24868,7 @@ image_id,class
 24867,CatEye
 24868,DogFace
 24869,CatEye
-24870,CatEye
+24870,CatFace
 24871,CatEye
 24872,CatFace
 24873,DogMouth
@@ -24929,7 +24929,7 @@ image_id,class
 24928,CatNose
 24929,CatFace
 24930,CatEye
-24931,CatNose
+24931,CatMouth
 24932,DogEye
 24933,DogFace
 24934,DogEye
@@ -24959,7 +24959,7 @@ image_id,class
 24958,DogNose
 24959,DogMouth
 24960,CatNose
-24961,CatNose
+24961,CatFace
 24962,DogFace
 24963,DogEye
 24964,CatMouth
@@ -24987,7 +24987,7 @@ image_id,class
 24986,CatEye
 24987,DogEye
 24988,DogEye
-24989,DogEye
+24989,CatEye
 24990,CatEye
 24991,CatMouth
 24992,DogMouth
@@ -25017,7 +25017,7 @@ image_id,class
 25016,DogEye
 25017,CatEye
 25018,DogMouth
-25019,CatMouth
+25019,DogMouth
 25020,CatEye
 25021,CatMouth
 25022,CatEye
@@ -25084,7 +25084,7 @@ image_id,class
 25083,DogNose
 25084,CatEye
 25085,DogMouth
-25086,DogNose
+25086,DogEye
 25087,DogMouth
 25088,DogFace
 25089,DogFace
@@ -25128,7 +25128,7 @@ image_id,class
 25127,CatFace
 25128,DogEye
 25129,CatEye
-25130,CatNose
+25130,CatEye
 25131,CatMouth
 25132,CatEye
 25133,CatEye
@@ -25219,7 +25219,7 @@ image_id,class
 25218,CatEye
 25219,CatNose
 25220,DogMouth
-25221,DogMouth
+25221,DogEye
 25222,DogEye
 25223,CatEye
 25224,CatEye
@@ -25262,7 +25262,7 @@ image_id,class
 25261,DogFace
 25262,CatEye
 25263,CatMouth
-25264,CatNose
+25264,CatMouth
 25265,DogMouth
 25266,CatMouth
 25267,CatEye
@@ -25293,7 +25293,7 @@ image_id,class
 25292,CatMouth
 25293,DogNose
 25294,CatMouth
-25295,CatNose
+25295,CatMouth
 25296,DogFace
 25297,DogEye
 25298,CatMouth
@@ -25305,7 +25305,7 @@ image_id,class
 25304,DogMouth
 25305,DogFace
 25306,DogNose
-25307,CatNose
+25307,CatEye
 25308,CatNose
 25309,CatNose
 25310,CatEye
@@ -25387,7 +25387,7 @@ image_id,class
 25386,DogEye
 25387,DogMouth
 25388,DogEye
-25389,DogNose
+25389,DogMouth
 25390,CatNose
 25391,DogNose
 25392,CatFace
@@ -25563,10 +25563,10 @@ image_id,class
 25562,CatFace
 25563,CatNose
 25564,DogFace
-25565,DogEye
+25565,CatEye
 25566,CatEye
 25567,DogMouth
-25568,DogMouth
+25568,DogEye
 25569,CatMouth
 25570,DogNose
 25571,CatEye
@@ -25666,7 +25666,7 @@ image_id,class
 25665,CatMouth
 25666,DogFace
 25667,CatNose
-25668,DogNose
+25668,DogMouth
 25669,DogEye
 25670,CatEye
 25671,DogMouth
@@ -25780,7 +25780,7 @@ image_id,class
 25779,DogEye
 25780,DogEye
 25781,CatEye
-25782,CatNose
+25782,CatMouth
 25783,DogMouth
 25784,CatFace
 25785,CatFace
@@ -25816,11 +25816,11 @@ image_id,class
 25815,DogFace
 25816,DogMouth
 25817,CatMouth
-25818,DogNose
+25818,CatEye
 25819,CatFace
 25820,DogEye
 25821,DogNose
-25822,DogMouth
+25822,DogEye
 25823,CatEye
 25824,CatEye
 25825,CatMouth
@@ -25861,7 +25861,7 @@ image_id,class
 25860,DogFace
 25861,CatNose
 25862,CatNose
-25863,DogNose
+25863,DogMouth
 25864,DogEye
 25865,DogMouth
 25866,CatMouth
@@ -26085,7 +26085,7 @@ image_id,class
 26084,DogEye
 26085,CatFace
 26086,DogEye
-26087,CatMouth
+26087,DogMouth
 26088,CatFace
 26089,CatEye
 26090,CatEye
@@ -26105,7 +26105,7 @@ image_id,class
 26104,CatFace
 26105,DogMouth
 26106,CatEye
-26107,DogFace
+26107,CatFace
 26108,DogEye
 26109,CatFace
 26110,DogNose
@@ -26121,7 +26121,7 @@ image_id,class
 26120,DogEye
 26121,CatEye
 26122,DogFace
-26123,CatNose
+26123,CatMouth
 26124,CatEye
 26125,CatEye
 26126,CatFace
@@ -26186,7 +26186,7 @@ image_id,class
 26185,DogFace
 26186,CatEye
 26187,DogFace
-26188,CatNose
+26188,CatFace
 26189,CatMouth
 26190,CatNose
 26191,DogEye
@@ -26257,7 +26257,7 @@ image_id,class
 26256,CatMouth
 26257,DogFace
 26258,CatFace
-26259,CatMouth
+26259,CatEye
 26260,DogFace
 26261,DogEye
 26262,DogNose
@@ -26277,7 +26277,7 @@ image_id,class
 26276,CatEye
 26277,CatEye
 26278,CatMouth
-26279,DogMouth
+26279,DogEye
 26280,CatEye
 26281,DogMouth
 26282,DogEye
@@ -26368,7 +26368,7 @@ image_id,class
 26367,DogNose
 26368,CatEye
 26369,CatFace
-26370,DogNose
+26370,CatNose
 26371,CatMouth
 26372,CatEye
 26373,DogMouth
@@ -26389,7 +26389,7 @@ image_id,class
 26388,CatNose
 26389,CatMouth
 26390,CatEye
-26391,CatNose
+26391,CatMouth
 26392,CatFace
 26393,CatEye
 26394,DogEye
@@ -26430,7 +26430,7 @@ image_id,class
 26429,CatEye
 26430,DogEye
 26431,CatNose
-26432,CatNose
+26432,CatMouth
 26433,CatNose
 26434,CatEye
 26435,DogEye
@@ -26509,7 +26509,7 @@ image_id,class
 26508,CatMouth
 26509,CatMouth
 26510,DogMouth
-26511,DogMouth
+26511,DogEye
 26512,CatEye
 26513,CatEye
 26514,CatEye
@@ -26534,7 +26534,7 @@ image_id,class
 26533,CatMouth
 26534,DogMouth
 26535,DogNose
-26536,CatNose
+26536,CatMouth
 26537,DogEye
 26538,CatMouth
 26539,CatEye
@@ -26598,7 +26598,7 @@ image_id,class
 26597,DogEye
 26598,CatNose
 26599,DogMouth
-26600,DogEye
+26600,CatEye
 26601,CatEye
 26602,CatMouth
 26603,DogEye
@@ -26607,7 +26607,7 @@ image_id,class
 26606,DogFace
 26607,DogFace
 26608,DogFace
-26609,CatNose
+26609,CatEye
 26610,CatMouth
 26611,CatEye
 26612,CatMouth
@@ -26625,7 +26625,7 @@ image_id,class
 26624,DogEye
 26625,DogMouth
 26626,CatEye
-26627,DogEye
+26627,CatEye
 26628,CatMouth
 26629,DogMouth
 26630,DogEye
@@ -26658,10 +26658,10 @@ image_id,class
 26657,DogEye
 26658,CatEye
 26659,CatFace
-26660,DogMouth
+26660,DogEye
 26661,DogEye
 26662,DogFace
-26663,DogNose
+26663,DogEye
 26664,DogEye
 26665,CatFace
 26666,DogEye
@@ -26711,7 +26711,7 @@ image_id,class
 26710,DogMouth
 26711,DogFace
 26712,DogNose
-26713,CatNose
+26713,CatMouth
 26714,DogEye
 26715,DogMouth
 26716,CatFace
@@ -26744,11 +26744,11 @@ image_id,class
 26743,DogMouth
 26744,DogMouth
 26745,DogEye
-26746,CatNose
+26746,CatMouth
 26747,DogEye
 26748,CatEye
 26749,DogNose
-26750,DogMouth
+26750,DogEye
 26751,CatMouth
 26752,CatMouth
 26753,CatMouth
@@ -26778,7 +26778,7 @@ image_id,class
 26777,DogEye
 26778,CatMouth
 26779,CatEye
-26780,CatNose
+26780,CatEye
 26781,DogEye
 26782,DogEye
 26783,DogEye
@@ -26948,7 +26948,7 @@ image_id,class
 26947,CatEye
 26948,CatEye
 26949,CatMouth
-26950,CatNose
+26950,CatEye
 26951,DogEye
 26952,CatMouth
 26953,CatEye
@@ -27021,7 +27021,7 @@ image_id,class
 27020,CatEye
 27021,DogMouth
 27022,DogFace
-27023,CatNose
+27023,CatEye
 27024,CatNose
 27025,CatEye
 27026,CatNose
@@ -27129,7 +27129,7 @@ image_id,class
 27128,CatFace
 27129,CatMouth
 27130,DogEye
-27131,DogEye
+27131,CatEye
 27132,CatEye
 27133,CatFace
 27134,CatEye
@@ -27226,7 +27226,7 @@ image_id,class
 27225,DogMouth
 27226,DogEye
 27227,DogMouth
-27228,CatMouth
+27228,CatEye
 27229,DogEye
 27230,CatNose
 27231,CatNose
@@ -27318,7 +27318,7 @@ image_id,class
 27317,CatEye
 27318,DogEye
 27319,CatMouth
-27320,DogNose
+27320,DogEye
 27321,CatFace
 27322,DogNose
 27323,DogEye
@@ -27343,7 +27343,7 @@ image_id,class
 27342,DogEye
 27343,CatEye
 27344,DogFace
-27345,DogEye
+27345,CatEye
 27346,CatEye
 27347,DogMouth
 27348,CatMouth
@@ -27361,7 +27361,7 @@ image_id,class
 27360,CatFace
 27361,CatMouth
 27362,DogEye
-27363,DogMouth
+27363,DogNose
 27364,CatFace
 27365,CatEye
 27366,DogMouth
@@ -27380,7 +27380,7 @@ image_id,class
 27379,CatEye
 27380,CatNose
 27381,DogMouth
-27382,CatNose
+27382,CatMouth
 27383,DogEye
 27384,DogMouth
 27385,CatEye
@@ -27611,7 +27611,7 @@ image_id,class
 27610,DogNose
 27611,CatMouth
 27612,DogEye
-27613,DogNose
+27613,DogEye
 27614,CatNose
 27615,DogNose
 27616,CatFace
@@ -27625,7 +27625,7 @@ image_id,class
 27624,DogEye
 27625,DogFace
 27626,CatNose
-27627,CatNose
+27627,CatEye
 27628,DogEye
 27629,DogMouth
 27630,CatEye
@@ -27640,9 +27640,9 @@ image_id,class
 27639,DogEye
 27640,CatFace
 27641,CatMouth
-27642,CatFace
+27642,DogFace
 27643,DogEye
-27644,CatNose
+27644,CatMouth
 27645,DogFace
 27646,CatEye
 27647,CatNose
@@ -27693,7 +27693,7 @@ image_id,class
 27692,DogNose
 27693,DogEye
 27694,CatEye
-27695,CatNose
+27695,CatEye
 27696,CatMouth
 27697,DogNose
 27698,CatEye
@@ -27778,7 +27778,7 @@ image_id,class
 27777,DogMouth
 27778,CatMouth
 27779,CatEye
-27780,CatNose
+27780,CatEye
 27781,DogFace
 27782,DogMouth
 27783,CatEye
@@ -27825,7 +27825,7 @@ image_id,class
 27824,CatFace
 27825,DogEye
 27826,DogNose
-27827,DogNose
+27827,DogMouth
 27828,DogFace
 27829,DogFace
 27830,DogNose
@@ -27879,7 +27879,7 @@ image_id,class
 27878,DogEye
 27879,DogFace
 27880,CatEye
-27881,DogEye
+27881,CatEye
 27882,DogEye
 27883,DogFace
 27884,CatFace
@@ -27893,7 +27893,7 @@ image_id,class
 27892,DogMouth
 27893,DogFace
 27894,DogEye
-27895,CatNose
+27895,CatMouth
 27896,DogFace
 27897,CatNose
 27898,CatNose
@@ -27943,7 +27943,7 @@ image_id,class
 27942,DogMouth
 27943,DogMouth
 27944,CatEye
-27945,CatNose
+27945,DogNose
 27946,CatEye
 27947,DogEye
 27948,DogEye
@@ -28009,7 +28009,7 @@ image_id,class
 28008,DogNose
 28009,CatFace
 28010,CatNose
-28011,DogEye
+28011,CatEye
 28012,DogEye
 28013,CatFace
 28014,DogMouth
@@ -28070,7 +28070,7 @@ image_id,class
 28069,DogEye
 28070,CatNose
 28071,DogMouth
-28072,CatNose
+28072,CatEye
 28073,DogFace
 28074,CatEye
 28075,DogEye
@@ -28086,7 +28086,7 @@ image_id,class
 28085,DogNose
 28086,CatFace
 28087,DogEye
-28088,DogFace
+28088,CatFace
 28089,CatMouth
 28090,CatEye
 28091,DogNose
@@ -28177,8 +28177,8 @@ image_id,class
 28176,DogEye
 28177,DogMouth
 28178,CatMouth
-28179,DogNose
-28180,DogNose
+28179,DogEye
+28180,CatNose
 28181,CatNose
 28182,CatMouth
 28183,DogEye
@@ -28204,7 +28204,7 @@ image_id,class
 28203,DogEye
 28204,CatEye
 28205,DogEye
-28206,CatEye
+28206,CatNose
 28207,CatEye
 28208,CatFace
 28209,DogNose
@@ -28244,11 +28244,11 @@ image_id,class
 28243,CatNose
 28244,CatMouth
 28245,CatNose
-28246,DogMouth
+28246,DogNose
 28247,CatEye
 28248,DogEye
 28249,DogNose
-28250,DogNose
+28250,CatNose
 28251,CatNose
 28252,DogFace
 28253,CatNose
@@ -28281,7 +28281,7 @@ image_id,class
 28280,DogEye
 28281,CatMouth
 28282,CatEye
-28283,CatNose
+28283,CatMouth
 28284,DogMouth
 28285,CatEye
 28286,DogFace
@@ -28308,7 +28308,7 @@ image_id,class
 28307,DogEye
 28308,CatNose
 28309,CatNose
-28310,CatEye
+28310,DogEye
 28311,CatEye
 28312,DogEye
 28313,DogFace
@@ -28322,7 +28322,7 @@ image_id,class
 28321,CatFace
 28322,CatMouth
 28323,DogEye
-28324,CatNose
+28324,CatMouth
 28325,DogFace
 28326,DogMouth
 28327,CatEye
@@ -28430,7 +28430,7 @@ image_id,class
 28429,DogMouth
 28430,DogEye
 28431,CatEye
-28432,CatNose
+28432,CatMouth
 28433,DogNose
 28434,CatMouth
 28435,CatFace
@@ -28451,7 +28451,7 @@ image_id,class
 28450,CatFace
 28451,CatEye
 28452,DogMouth
-28453,CatEye
+28453,CatMouth
 28454,DogNose
 28455,CatFace
 28456,CatEye
@@ -28491,7 +28491,7 @@ image_id,class
 28490,CatEye
 28491,DogNose
 28492,DogNose
-28493,CatNose
+28493,CatEye
 28494,CatEye
 28495,DogMouth
 28496,CatFace
@@ -28522,7 +28522,7 @@ image_id,class
 28521,CatEye
 28522,CatFace
 28523,DogMouth
-28524,CatNose
+28524,CatMouth
 28525,CatMouth
 28526,DogEye
 28527,DogEye
@@ -28561,7 +28561,7 @@ image_id,class
 28560,CatNose
 28561,DogMouth
 28562,CatFace
-28563,DogNose
+28563,CatNose
 28564,CatEye
 28565,DogMouth
 28566,CatEye
@@ -28667,7 +28667,7 @@ image_id,class
 28666,CatFace
 28667,DogMouth
 28668,DogNose
-28669,DogNose
+28669,DogEye
 28670,DogEye
 28671,CatMouth
 28672,CatEye
@@ -28723,7 +28723,7 @@ image_id,class
 28722,DogEye
 28723,DogMouth
 28724,DogEye
-28725,CatNose
+28725,CatFace
 28726,DogEye
 28727,DogEye
 28728,CatEye
@@ -28745,7 +28745,7 @@ image_id,class
 28744,CatEye
 28745,CatFace
 28746,DogMouth
-28747,CatNose
+28747,CatMouth
 28748,DogFace
 28749,DogEye
 28750,DogMouth
@@ -28799,7 +28799,7 @@ image_id,class
 28798,CatNose
 28799,DogFace
 28800,CatEye
-28801,CatNose
+28801,CatEye
 28802,DogMouth
 28803,CatMouth
 28804,DogEye
@@ -28849,7 +28849,7 @@ image_id,class
 28848,CatMouth
 28849,DogEye
 28850,DogMouth
-28851,DogNose
+28851,CatNose
 28852,CatNose
 28853,CatFace
 28854,DogEye
@@ -28888,7 +28888,7 @@ image_id,class
 28887,CatNose
 28888,CatMouth
 28889,DogEye
-28890,CatMouth
+28890,DogMouth
 28891,DogEye
 28892,DogMouth
 28893,DogEye
@@ -28956,7 +28956,7 @@ image_id,class
 28955,DogNose
 28956,CatFace
 28957,DogFace
-28958,CatNose
+28958,CatMouth
 28959,DogFace
 28960,DogFace
 28961,CatFace
@@ -29019,7 +29019,7 @@ image_id,class
 29018,DogMouth
 29019,CatMouth
 29020,CatFace
-29021,DogNose
+29021,DogEye
 29022,DogNose
 29023,DogEye
 29024,DogMouth
@@ -29153,7 +29153,7 @@ image_id,class
 29152,CatEye
 29153,DogNose
 29154,DogNose
-29155,CatMouth
+29155,CatEye
 29156,CatEye
 29157,DogEye
 29158,DogEye
@@ -29215,13 +29215,13 @@ image_id,class
 29214,DogEye
 29215,DogMouth
 29216,DogEye
-29217,CatNose
+29217,CatEye
 29218,CatMouth
 29219,CatNose
 29220,DogEye
 29221,CatFace
 29222,CatEye
-29223,CatEye
+29223,DogEye
 29224,DogNose
 29225,DogEye
 29226,CatFace
@@ -29251,7 +29251,7 @@ image_id,class
 29250,CatEye
 29251,CatEye
 29252,CatFace
-29253,CatNose
+29253,CatEye
 29254,CatFace
 29255,DogFace
 29256,CatNose
@@ -29365,7 +29365,7 @@ image_id,class
 29364,CatMouth
 29365,CatEye
 29366,DogNose
-29367,DogFace
+29367,CatFace
 29368,CatEye
 29369,DogEye
 29370,CatNose
@@ -29390,13 +29390,13 @@ image_id,class
 29389,CatEye
 29390,CatEye
 29391,DogNose
-29392,CatNose
+29392,CatEye
 29393,DogEye
 29394,DogMouth
 29395,DogEye
 29396,DogMouth
 29397,CatFace
-29398,CatNose
+29398,CatMouth
 29399,DogEye
 29400,DogNose
 29401,DogEye
