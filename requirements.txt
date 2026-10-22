@@ -1,0 +1,12 @@
+# Use an environment compatible with your working PyTorch/CUDA installation.
+# Install PyTorch+torchvision from https://pytorch.org/get-started/locally/ if needed.
+# Do not reinstall GPU PyTorch merely to refresh these other dependencies.
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
+torch
+torchvision
+ipykernel
+jupyter

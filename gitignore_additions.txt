@@ -1,0 +1,33 @@
+# ENGE707 active pipeline: local-only data and outputs
+# Existing Kaggle repo: notebooks and README tracked; private data and local outputs untracked.
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Private competition datasets and test images
+train/
+test/
+train_labels.csv
+sample_submission.csv
+
+# Heavy checkpoints, cache, generated audit results and Kaggle submission files
+outputs/
+staged_checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# In case legacy result files are retained at root
+final_submission*.csv
+submission_variable*.csv
+submission_geometry*.csv
+
+# Local cleanup inventory
+cleanup_preview.txt
